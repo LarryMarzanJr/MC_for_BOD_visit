@@ -12,13 +12,6 @@ I had the opportunity to develop and provide MC scripts for an important corpora
 
 - **Event**: Town Hall BOD & BOM dengan karyawan KC Manado dan sekitarnya
 - **Audience**: Karyawan SMBC Indonesia Cabang Manado dan sekitarnya
-- **Key Personnel**:
-  - Henoch Munandar - CEO of Bank SMBC Indonesia
-  - Handrie Darusman - COMMUNICATIONS & DAYA HEAD
-  - Yusri Asri - REGIONAL BUSINESS LEADER MICRO BUSINESS & REGIONAL HEAD
-  - Cindyani - CORPORATE COMMUNICATION HEAD
-  - Reyhan Pasidya - EXTERNAL COMMUNICATION
-  - Mustaqim Adamrah - EXTERNAL COMMUNICATION
 
 ## Files Included
 

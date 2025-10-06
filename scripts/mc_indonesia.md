@@ -42,6 +42,42 @@ Bapak dan Ibu sekalian, silakan berikan sambutan hangat untuk mereka!"
 
 Kami mengundang semua karyawan untuk menyampaikan pertanyaan dan kekhawatiran Anda. Harap angkat tangan jika Anda memiliki pertanyaan, dan kami akan memfasilitasi tukar-menukar ini. Mari kita pastikan pertanyaan kita singkat dan relevan dengan tujuan organisasi kita. Bapak Munandar, sekarang kami membuka forum untuk pertanyaan dari rekan-rekan karyawan kami yang terhormat."
 
+## Transisi Antara Pertanyaan Individu
+
+Naskah-naskah ini dapat digunakan setelah Bapak Munandar menjawab setiap pertanyaan untuk berpindah ke penanya berikutnya:
+
+### Transisi 1 - Mengakui Jawaban
+"Terima kasih, Bapak Munandar, atas jawaban yang komprehensif. Mari kita lanjutkan dengan pertanyaan berikutnya dari hadirin. Silakan angkat tangan jika Anda memiliki pertanyaan."
+
+### Transisi 2 - Pindah ke Pertanyaan Berikutnya
+"Terima kasih atas wawasan ini, Bapak Munandar. Sekarang kita akan pindah ke pertanyaan berikutnya. Ya, di sana di belakang. Silakan sampaikan pertanyaan Anda."
+
+### Transisi 3 - Melanjutkan Sesi
+"Terima kasih atas penjelasan ini, Bapak Munandar. Mari kita lanjutkan dengan pertanyaan dari rekan-rekan kita. Ada pertanyaan berikutnya, silakan?"
+
+### Transisi 4 - Memfasilitasi Alur
+"Terima kasih, Bapak Munandar. Itu memberikan kejelasan yang luar biasa tentang subjek tersebut. Kita memiliki pertanyaan lain dari hadirin. Silakan."
+
+### Transisi 5 - Melibatkan Peserta Berikutnya
+"Terima kasih telah menanggapi itu, Bapak Munandar. Kita melihat lebih banyak tangan terangkat. Mari kita ambil pertanyaan berikutnya dari bapak dengan kemeja biru. Silakan."
+
+## Opsi Tambahan Transisi Sesi Tanya Jawab
+
+### Opsi 1 - Keterlibatan Interaktif
+"Terima kasih, Bapak Munandar, atas wawasan berharga yang telah dibagikan. Sekarang, mari kita buka forum untuk dialog interaktif. Ini adalah kesempatan Anda untuk langsung berinteraksi dengan CEO kita. Harap angkat tangan jika Anda memiliki pertanyaan. Bapak Munandar siap menjawab pertanyaan-pertanyaan Anda."
+
+### Opsi 2 - Mendorong Partisipasi
+"Bapak Munandar, terima kasih atas presentasi yang komprehensif. Sekarang kami membuka sesi tanya jawab untuk pertanyaan dari rekan-rekan kami. Jangan ragu untuk mengangkat tangan jika Anda memiliki pertanyaan atau komentar. Partisipasi Anda adalah yang membuat sesi ini menjadi bermakna."
+
+### Opsi 3 - Tanya Jawab Terstruktur
+"Kami menghargai perhatian Anda selama presentasi tadi, Bapak Munandar. Sekarang kita akan memasuki segmen tanya jawab. Jika Anda memiliki pertanyaan, harap angkat tangan dan menunggu mikrofon. Mari kita menjaga alur pertanyaan yang tertib agar semua pihak dapat didengarkan."
+
+### Opsi 4 - Gaya Terbuka
+"Terima kasih atas presentasi yang menarik, Bapak Munandar. Presentasi ini tentu memberikan banyak hal untuk dipertimbangkan. Sekarang kami mengundang pertanyaan dari rekan-rekan kami. Harap menyebutkan nama Anda ketika mendekati mikrofon, dan jangan ragu untuk bertanya apa pun yang terkait dengan arah strategis atau operasional kita."
+
+### Opsi 5 - Diskusi yang Difasilitasi
+"Terima kasih atas presentasi yang penuh wawasan, Bapak Munandar. Kita sekarang memasuki sesi tanya jawab yang difasilitasi di mana rekan-rekan kami dapat berinteraksi langsung dengan Anda. Harap menyebutkan nama dan bagian Anda ketika mengajukan pertanyaan. Bapak Munandar, forum ini kini Anda pimpin dalam sesi interaktif ini."
+
 ## Transisi ke Sambutan Penutup
 
 "Terima kasih kepada semua peserta atas pertanyaan-pertanyaan yang penuh pemikiran dan kepada Bapak Munandar atas jawaban-jawaban yang komprehensif. Sesi Tanya Jawab ini benar-benar mencerminkan budaya komunikasi terbuka yang kita hargai di SMBC Indonesia.

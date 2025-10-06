@@ -42,6 +42,40 @@ Ladies and gentlemen, please give them a warm round of applause!"
 
 We invite all employees to voice your questions and concerns. Please raise your hand if you have a question, and we will facilitate the exchange. Let's ensure our questions are concise and relevant to our organizational goals. Mr. Munandar, we now open the floor for questions from our valued team members."
 
+## Transitions Between Individual Questions
+
+These scripts can be used after Mr. Munandar answers each question to transition to the next questioner:
+
+### Transition 1 - Acknowledging Response
+"Thank you, Mr. Munandar, for that comprehensive answer. Let's take our next question from our audience. Please raise your hand if you have a question."
+
+### Transition 2 - Moving to Next Question
+"Thank you for that insight, Mr. Munandar. Now we'll move to our next question. Yes, right there in the back. Please proceed with your question."
+
+### Transition 3 - Continuing the Session
+"Thank you for that explanation, Mr. Munandar. Let's continue with questions from our team members. Could we have the next question, please?"
+
+### Transition 4 - Facilitating Flow
+"Thank you, Mr. Munandar. That provides great clarity on the subject. We have another question from the audience. Please go ahead."
+
+### Transition 5 - Engaging Next Participant
+"Thank you for addressing that, Mr. Munandar. We're seeing more hands raised. Let's take our next question from the gentleman in the blue shirt. Please proceed."
+
+### Option 1 - Interactive Engagement
+"Thank you, Mr. Munandar, for sharing your valuable insights. Now, let's open the floor for an interactive dialogue. This is your chance to connect directly with our CEO. Please raise your hand if you have a question. Mr. Munandar is ready to address your inquiries."
+
+### Option 2 - Encouraging Participation
+"Mr. Munandar, thank you for that comprehensive presentation. The floor is now open for questions from our dedicated team members. Don't hesitate to raise your hand if you have any questions or comments. Your engagement is what makes these sessions meaningful."
+
+### Option 3 - Structured Q&A
+"We appreciate your attention during that presentation, Mr. Munandar. Now we'll move to the Q&A segment. If you have a question, please raise your hand and wait for the microphone. Let's maintain an orderly flow of questions to ensure everyone gets heard."
+
+### Option 4 - Open Floor Style
+"Thank you, Mr. Munandar. Your presentation has certainly provided a lot to think about. Now we welcome questions from our colleagues. Please identify yourself when you approach the microphone, and feel free to ask anything related to our strategic direction or operations."
+
+### Option 5 - Facilitated Discussion
+"Thank you for that insightful presentation, Mr. Munandar. We now enter a facilitated Q&A session where our team members can engage with you directly. Please state your name and department when asking your question. Mr. Munandar, the floor is yours for this interactive session."
+
 ## Transition to Closing Remarks
 
 "Thank you to all participants for your thoughtful questions and to Mr. Munandar for his comprehensive responses. This Q&A session truly reflects the open communication culture we value at SMBC Indonesia.

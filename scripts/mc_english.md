@@ -4,7 +4,7 @@
 
 "Good [morning/afternoon] to all our esteemed colleagues, welcome to this important Town Hall meeting between the Board of Directors (BOD) and Board of Commissioners (BOM) with employees from Manado Branch and surrounding areas.
 
-My name is [Your Name], and it is my distinct honor to be your Master of Ceremony for today's gathering. I would like to extend a warm and heartfelt welcome to each and every one of you from SMBC Indonesia Manado Branch and the surrounding regions. Your presence here today is a testament to the strong unity and collaborative spirit that defines our organization."
+We are your Masters of Ceremony for today's gathering. I'm Larry, and this is Marlen. It is our distinct honor to guide you through today's event. We would like to extend a warm and heartfelt welcome to each and every one of you from SMBC Indonesia Manado Branch and the surrounding regions. Your presence here today is a testament to the strong unity and collaborative spirit that defines our organization."
 
 ## Introduction of Key People
 
@@ -38,7 +38,7 @@ Ladies and gentlemen, please give them a warm round of applause!"
 
 "Thank you, Mr. Munandar, for that inspiring presentation. Now we move to an interactive segment that many of you have been looking forward to - the Question & Answer session with our CEO. This is your opportunity to engage directly with Mr. Munandar and gain insights on matters important to you.
 
-I invite all employees to voice your questions and concerns. Please raise your hand if you have a question, and I will facilitate the exchange. Let's ensure our questions are concise and relevant to our organizational goals. Mr. Munandar, we now open the floor for questions from our valued team members."
+We invite all employees to voice your questions and concerns. Please raise your hand if you have a question, and we will facilitate the exchange. Let's ensure our questions are concise and relevant to our organizational goals. Mr. Munandar, we now open the floor for questions from our valued team members."
 
 ## Transition to Closing Remarks
 
@@ -48,13 +48,13 @@ We will now conclude our formal program with closing remarks from our Regional H
 
 ## Photo Session Invitation
 
-"Thank you, Mr. Asri, for those encouraging words. Before we conclude today's gathering, it is time for a moment that captures our unity and shared commitment - the group photo session. I invite all our distinguished guests and our Manado branch team members to join us for this memorable moment. Please gather at the designated photo area.
+"Thank you, Mr. Asri, for those encouraging words. Before we conclude today's gathering, it is time for a moment that captures our unity and shared commitment - the group photo session. We invite all our distinguished guests and our Manado branch team members to join us for this memorable moment. Please gather at the designated photo area.
 
 Let's create a lasting image of our togetherness and the strong bonds that unite us as SMBC Indonesia family."
 
 ## Closing Remarks
 
-"As we conclude today's Town Hall meeting, I want to express my sincere gratitude to all of you for your active participation and engagement. Your dedication and commitment to excellence are what make SMBC Indonesia a trusted banking partner.
+"As we conclude today's Town Hall meeting, we want to express our sincere gratitude to all of you for your active participation and engagement. Your dedication and commitment to excellence are what make SMBC Indonesia a trusted banking partner.
 
 To our distinguished leaders, thank you for your continued guidance and vision. To our valued employees, thank you for your unwavering commitment to our mission.
 

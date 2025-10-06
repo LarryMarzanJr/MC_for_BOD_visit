@@ -4,7 +4,7 @@
 
 "Assalamu'alaikum Wr. Wb, dan selamat [pagi/sore] bagi semua rekan-rekan kami yang terhormat, selamat datang di acara Town Hall penting antara Dewan Direksi (BOD) dan Dewan Komisaris (BOM) dengan karyawan dari Kantor Cabang Manado dan sekitarnya.
 
-Nama saya [Nama Anda], dan merupakan kehormatan besar bagi saya untuk menjadi Master of Ceremony dalam pertemuan hari ini. Saya ingin menyampaikan selamat datang yang hangat dan tulus kepada masing-masing dari Anda yang hadir dari Kantor Cabang SMBC Indonesia Manado dan wilayah sekitarnya. Kehadiran Anda di sini hari ini merupakan bukti dari persatuan dan semangat kolaboratif yang kuat yang mendefinisikan organisasi kita."
+Kami adalah Master of Ceremony dalam pertemuan hari ini. Saya Larry, dan ini adalah Marlen. Merupakan kehormatan besar bagi kami untuk membimbing Anda melalui acara hari ini. Kami ingin menyampaikan selamat datang yang hangat dan tulus kepada masing-masing dari Anda yang hadir dari Kantor Cabang SMBC Indonesia Manado dan wilayah sekitarnya. Kehadiran Anda di sini hari ini merupakan bukti dari persatuan dan semangat kolaboratif yang kuat yang mendefinisikan organisasi kita."
 
 ## Pengenalan Tokoh Penting
 
@@ -38,7 +38,7 @@ Bapak dan Ibu sekalian, silakan berikan sambutan hangat untuk mereka!"
 
 "Terima kasih, Bapak Munandar, atas presentasi yang menginspirasi. Sekarang kita menuju ke segmen interaktif yang telah banyak dari Anda nantikan - sesi Tanya Jawab dengan CEO kita. Ini adalah kesempatan Anda untuk berinteraksi langsung dengan Bapak Munandar dan mendapatkan wawasan tentang hal-hal yang penting bagi Anda.
 
-Saya mengundang semua karyawan untuk menyampaikan pertanyaan dan kekhawatiran Anda. Harap angkat tangan jika Anda memiliki pertanyaan, dan saya akan memfasilitasi tukar-menukar ini. Mari kita pastikan pertanyaan kita singkat dan relevan dengan tujuan organisasi kita. Bapak Munandar, sekarang kami membuka forum untuk pertanyaan dari rekan-rekan karyawan kami yang terhormat."
+Kami mengundang semua karyawan untuk menyampaikan pertanyaan dan kekhawatiran Anda. Harap angkat tangan jika Anda memiliki pertanyaan, dan kami akan memfasilitasi tukar-menukar ini. Mari kita pastikan pertanyaan kita singkat dan relevan dengan tujuan organisasi kita. Bapak Munandar, sekarang kami membuka forum untuk pertanyaan dari rekan-rekan karyawan kami yang terhormat."
 
 ## Transisi ke Sambutan Penutup
 
@@ -48,13 +48,13 @@ Kita sekarang akan menutup program resmi kita dengan sambutan penutup dari Kepal
 
 ## Undangan Sesi Foto
 
-"Terima kasih, Bapak Asri, atas kata-kata yang menggembirakan tersebut. Sebelum kita menutup pertemuan hari ini, saatnya untuk momen yang menangkap persatuan dan komitmen bersama kita - sesi foto bersama. Saya mengundang semua tamu terhormat dan tim cabang Manado kita untuk bergabung dengan kami dalam momen berharga ini. Harap berkumpul di area foto yang telah ditentukan.
+"Terima kasih, Bapak Asri, atas kata-kata yang menggembirakan tersebut. Sebelum kita menutup pertemuan hari ini, saatnya untuk momen yang menangkap persatuan dan komitmen bersama kita - sesi foto bersama. Kami mengundang semua tamu terhormat dan tim cabang Manado kita untuk bergabung dengan kami dalam momen berharga ini. Harap berkumpul di area foto yang telah ditentukan.
 
 Mari kita ciptakan gambaran yang abadi tentang kebersamaan dan ikatan kuat yang menyatukan kita sebagai keluarga SMBC Indonesia."
 
 ## Sambutan Penutup
 
-"Saat kita menutup Town Hall hari ini, saya ingin menyampaikan rasa terima kasih yang tulus kepada semua Anda atas partisipasi dan keterlibatan aktif Anda. Dedikasi dan komitmen Anda terhadap keunggulan adalah hal yang membuat SMBC Indonesia menjadi mitra perbankan yang tepercaya.
+"Saat kita menutup Town Hall hari ini, kami ingin menyampaikan rasa terima kasih yang tulus kepada semua Anda atas partisipasi dan keterlibatan aktif Anda. Dedikasi dan komitmen Anda terhadap keunggulan adalah hal yang membuat SMBC Indonesia menjadi mitra perbankan yang tepercaya.
 
 Kepada para pemimpin terhormat, terima kasih atas bimbingan dan visi Anda yang berkelanjutan. Kepada para karyawan yang berharga, terima kasih atas komitmen Anda yang tak goyah terhadap misi kita.
 

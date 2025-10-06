@@ -45,3 +45,6 @@
 
 ## Scripts Summary
 The scripts have been created in both English and Indonesian languages, covering all segments of the event with appropriate introductions, transitions, and closing remarks. The scripts include specific introductions for all key personnel, prayer session introduction, presentation transitions, Q&A facilitation, and group photo invitation.
+
+## Qwen Added Memories
+- Today's date is Monday, October 6, 2025. I'm working on updating MC scripts for an SMBC Indonesia BOD meeting. I've updated rundown.md, mc_english.md, and mc_indonesia.md to include details about two MCs (Larry and Marlen) hosting the event in turn.

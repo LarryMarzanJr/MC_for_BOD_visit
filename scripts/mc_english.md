@@ -18,7 +18,9 @@ We also have Mr. Yusri Asri, our Regional Business Leader for Micro Business & R
 
 Additionally, we are joined by Mrs. Cindyani, our Corporate Communication Head, who ensures our messages are clear and consistent across all platforms.
 
-We also have two important members of our external communication team: Mr. Reyhan Pasidya and Mr. Mustaqim Adamrah.
+We also have Mr. Rivo Kawulur, our Regional Service Head, who ensures seamless service delivery across our regional operations.
+
+Additionally, we have two important members of our external communication team: Mr. Reyhan Pasidya and Mr. Mustaqim Adamrah.
 
 Ladies and gentlemen, please give them a warm round of applause!"
 

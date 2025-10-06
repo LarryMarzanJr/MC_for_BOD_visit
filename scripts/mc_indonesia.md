@@ -12,13 +12,15 @@ Kami adalah Master of Ceremony dalam pertemuan hari ini. Saya Larry, dan ini ada
 
 Pertama, Chief Executive Officer Bank SMBC Indonesia, Bapak Henoch Munandar, yang terus memberikan kepemimpinan visioner untuk membimbing kita menuju kesuksesan yang lebih besar.
 
-Berikutnya, kami memiliki Bapak Handrie Darusman, Kepala Komunikasi & Daya, yang memainkan peran penting dalam menjaga komunikasi strategis kami.
+Berikutnya, kami memiliki Bapak Handrie Darusman, Communications & Daya Head, yang memainkan peran penting dalam menjaga komunikasi strategis kami.
 
-Kami juga memiliki Bapak Yusri Asri, Pemimpin Bisnis Regional untuk Bisnis Mikro & Kepala Regional, yang telah menjadi pihak yang instrumental dalam memperluas inisiatif bisnis regional kita.
+Kami juga memiliki Bapak Yusri Asri, Regional Business Leader Micro Business & Regional Head, yang telah menjadi pihak yang instrumental dalam memperluas inisiatif bisnis regional kita.
 
-Selain itu, kami juga didampingi Ibu Cindyani, Kepala Komunikasi Perusahaan, yang memastikan pesan-pesan kita jelas dan konsisten di seluruh platform.
+Selain itu, kami juga didampingi Ibu Cindyani, Corporate Communication Head, yang memastikan pesan-pesan kita jelas dan konsisten di seluruh platform.
 
-Kami juga memiliki dua anggota penting dari tim komunikasi eksternal kami: Bapak Reyhan Pasidya dan Bapak Mustaqim Adamrah.
+Kami juga memiliki Bapak Rivo Kawulur, Regional Service Head, yang memastikan layanan yang mulus di seluruh operasi regional kami.
+
+Selain itu, kami juga memiliki dua anggota penting dari tim komunikasi eksternal kami: Bapak Reyhan Pasidya dan Bapak Mustaqim Adamrah.
 
 Bapak dan Ibu sekalian, silakan berikan sambutan hangat untuk mereka!"
 
@@ -28,7 +30,7 @@ Bapak dan Ibu sekalian, silakan berikan sambutan hangat untuk mereka!"
 
 ## Pengenalan Sambutan Pembukaan
 
-"Sekarang, mari kita mulai program resmi kita. Seperti yang tercantum dalam agenda kita, kita akan memulai dengan sambutan pembukaan dan presentasi dari Kepala Regional, Bapak Yusri Asri. Bapak Asri akan memberikan wawasan berharga tentang operasi regional dan arah masa depan kita. Harap sambut Bapak Yusri Asri untuk sambutan pembukanya."
+"Sekarang, mari kita mulai program resmi kita. Seperti yang tercantum dalam agenda kita, kita akan memulai dengan sambutan pembukaan dan presentasi dari Regional Head, Bapak Yusri Asri. Bapak Asri akan memberikan wawasan berharga tentang operasi regional dan arah masa depan kita. Harap sambut Bapak Yusri Asri untuk sambutan pembukanya."
 
 ## Transisi ke Presentasi CEO
 
@@ -44,7 +46,7 @@ Kami mengundang semua karyawan untuk menyampaikan pertanyaan dan kekhawatiran An
 
 "Terima kasih kepada semua peserta atas pertanyaan-pertanyaan yang penuh pemikiran dan kepada Bapak Munandar atas jawaban-jawaban yang komprehensif. Sesi Tanya Jawab ini benar-benar mencerminkan budaya komunikasi terbuka yang kita hargai di SMBC Indonesia.
 
-Kita sekarang akan menutup program resmi kita dengan sambutan penutup dari Kepala Regional kita, Bapak Yusri Asri. Harap sambut Bapak Asri untuk kata-kata penutupnya."
+Kita sekarang akan menutup program resmi kita dengan sambutan penutup dari Regional Head kita, Bapak Yusri Asri. Harap sambut Bapak Asri untuk kata-kata penutupnya."
 
 ## Undangan Sesi Foto
 

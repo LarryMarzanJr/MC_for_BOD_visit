@@ -51,3 +51,4 @@ The scripts have been created in both English and Indonesian languages, covering
 - MC scripts in English and Indonesian are complete with job titles preserved in English.
 - Both MCs (Larry and Marlen) are included as per requirements.
 - All documentation is complete and ready for the Town Hall event.
+- Added 5 open transition scripts between individual questions during the Q&A session with Mr. Munandar to both English and Indonesian scripts, allowing smooth transitions without assuming knowledge of the next questioner or their question topic.

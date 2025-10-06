@@ -1,6 +1,9 @@
 ## Event
 * Town hall BOD & BOM dengan karyawan KC Manado dan sekitarnya
 
+## Master of Ceremonies
+* Larry (male) and Marlen (female) will be hosting the event in turn
+
 ## Key People to Highlight
 * Henoch Munandar - CEO of Bank SMBC Indonesia
 * Handrie Darusman - COMMUNICATIONS & DAYA HEAD
@@ -15,7 +18,10 @@
 
 ## Rundown
 * Town hall BOD & BOM dengan karyawan KC Manado dan sekitarnya
-* Opening Master of Ceremonies
+* Opening Master of Ceremonies (Larry and Marlen)
 * Doa Bersama
 * Opening speech + paparan Regional Head
-* Paparan dari Henoch Munandar * QnA dengan Dirut dengan karyawan dipandu Master of Ceremonies * Penutup oleh Regional Head * Photo bersama
+* Paparan dari Henoch Munandar
+* QnA dengan Dirut dengan karyawan dipandu Master of Ceremonies (Larry and Marlen)
+* Penutup oleh Regional Head
+* Photo bersama

@@ -34,3 +34,7 @@ I had the opportunity to develop and provide MC scripts for an important corpora
 ## Purpose
 
 These scripts were created to ensure a professional, engaging, and well-organized event that maintains the high standards expected at SMBC Indonesia while facilitating meaningful interaction between leadership and employees. The dual-language approach ensures accessibility for diverse audiences while maintaining cultural authenticity.
+
+## Status
+
+All required MC scripts and documentation have been completed and are ready for the Town Hall event.

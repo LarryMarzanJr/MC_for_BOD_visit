@@ -12,7 +12,7 @@ We are your Masters of Ceremony for today's gathering. I'm Larry, and this is Ma
 
 First, our President Director of Bank SMBC Indonesia, Mr. Henoch Munandar, whose visionary leadership continues to guide us toward greater success.
 
-Next, we have Mr. Jun Saito San, our Deputy President Director of Bank SMBC Indonesia, who plays a crucial role in our strategic direction and operations.
+Next, we have Jun Saito San, our Deputy President Director of Bank SMBC Indonesia, who plays a crucial role in our strategic direction and operations.
 
 We also have Mr. Handrie Darusman, our Communications & Daya Head, who ensures effective communication across our organization.
 

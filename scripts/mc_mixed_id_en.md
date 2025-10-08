@@ -22,7 +22,7 @@ Kehadiran Anda di sini hari ini merupakan bukti dari persatuan dan semangat kola
 
 **Marlen (Indonesian):** Pertama, President Director Bank SMBC Indonesia, Bapak Henoch Munandar, yang terus memberikan kepemimpinan visioner untuk membimbing kita menuju kesuksesan yang lebih besar.
 
-**Larry (English):** "Next, we have Mr. Jun Saito San, our Deputy President Director of Bank SMBC Indonesia, who plays a crucial role in our strategic direction and operations."
+**Larry (English):** "Next, we have Jun Saito San, our Deputy President Director of Bank SMBC Indonesia, who plays a crucial role in our strategic direction and operations."
 
 **Marlen (Indonesian):** Hadir juga bersama kita saat ini Bapak Handrie Darusman, Communications & Daya Head, yang memastikan komunikasi yang efektif di seluruh organisasi kita.
 

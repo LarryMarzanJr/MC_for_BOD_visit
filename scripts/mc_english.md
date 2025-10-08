@@ -10,17 +10,23 @@ We are your Masters of Ceremony for today's gathering. I'm Larry, and this is Ma
 
 "Today, we are honored to have distinguished leaders who have come to share insights and engage in meaningful dialogue with our valued team members. Allow me to introduce our distinguished guests:
 
-First, our Chief Executive Officer of Bank SMBC Indonesia, Mr. Henoch Munandar, whose visionary leadership continues to guide us toward greater success.
+First, our President Director of Bank SMBC Indonesia, Mr. Henoch Munandar, whose visionary leadership continues to guide us toward greater success.
 
-Next, we have Mr. Handrie Darusman, our Communications & Daya Head, who plays a crucial role in maintaining our strategic communications.
+Next, we have Mr. Jun Saito San, our Deputy President Director of Bank SMBC Indonesia, who plays a crucial role in our strategic direction and operations.
 
-We also have Mr. Yusri Asri, our Regional Business Leader for Micro Business & Regional Head, who has been instrumental in expanding our regional business initiatives.
+We also have Mr. Handrie Darusman, our Communications & Daya Head, who ensures effective communication across our organization.
 
-Additionally, we are joined by Mrs. Cindyani, our Corporate Communication Head, who ensures our messages are clear and consistent across all platforms.
+Additionally, we have Mr. Yusri Asri, our Regional Business Leader for Micro Business & Regional Head, who has been instrumental in expanding our regional business initiatives.
+
+We also have Ms. Windayani, our Regional Business Head SME, who drives our small and medium enterprise business strategies.
+
+We also have Ms. Aida Belina Tenando, our Regional Business Leader WMB & Retail Regional Head, leading our wealth management and retail business operations.
+
+We also have Mr. Pujangga Pradana Putra, our Regional Business Leader Pension Business, who manages our pension business initiatives.
 
 We also have Mr. Rivo Kawulur, our Regional Service Head, who ensures seamless service delivery across our regional operations.
 
-Additionally, we have two important members of our external communication team: Mr. Reyhan Pasidya and Mr. Mustaqim Adamrah.
+Additionally, we have our Area Leaders and Managers who are instrumental in leading our operations across all branches in this region.
 
 Ladies and gentlemen, please give them a warm round of applause!"
 
@@ -34,11 +40,11 @@ Ladies and gentlemen, please give them a warm round of applause!"
 
 ## Transition to CEO's Presentation
 
-"Thank you, Mr. Asri, for that insightful presentation. Now comes one of the most anticipated moments of our gathering - a special presentation from our CEO, Mr. Henoch Munandar. Mr. Munandar will share his vision for our bank's future and key strategic developments. Please join me in welcoming Mr. Henoch Munandar."
+"Thank you, Mr. Asri, for that insightful presentation. Now comes one of the most anticipated moments of our gathering - a special presentation from our President Director, Mr. Henoch Munandar. Mr. Munandar will share his vision for our bank's future and key strategic developments. Please join me in welcoming Mr. Henoch Munandar."
 
 ## Facilitating Q&A Session
 
-"Thank you, Mr. Munandar, for that inspiring presentation. Now we move to an interactive segment that many of you have been looking forward to - the Question & Answer session with our CEO. This is your opportunity to engage directly with Mr. Munandar and gain insights on matters important to you.
+"Thank you, Mr. Munandar, for that inspiring presentation. Now we move to an interactive segment that many of you have been looking forward to - the Question & Answer session with our President Director. This is your opportunity to engage directly with Mr. Munandar and gain insights on matters important to you.
 
 We invite all employees to voice your questions and concerns. Please raise your hand if you have a question, and we will facilitate the exchange. Let's ensure our questions are concise and relevant to our organizational goals. Mr. Munandar, we now open the floor for questions from our valued team members."
 
@@ -62,7 +68,7 @@ These scripts can be used after Mr. Munandar answers each question to transition
 "Thank you for addressing that, Mr. Munandar. We're seeing more hands raised. Let's take our next question from the gentleman in the blue shirt. Please proceed."
 
 ### Option 1 - Interactive Engagement
-"Thank you, Mr. Munandar, for sharing your valuable insights. Now, let's open the floor for an interactive dialogue. This is your chance to connect directly with our CEO. Please raise your hand if you have a question. Mr. Munandar is ready to address your inquiries."
+"Thank you, Mr. Munandar, for sharing your valuable insights. Now, let's open the floor for an interactive dialogue. This is your chance to connect directly with our President Director. Please raise your hand if you have a question. Mr. Munandar is ready to address your inquiries."
 
 ### Option 2 - Encouraging Participation
 "Mr. Munandar, thank you for that comprehensive presentation. The floor is now open for questions from our dedicated team members. Don't hesitate to raise your hand if you have any questions or comments. Your engagement is what makes these sessions meaningful."

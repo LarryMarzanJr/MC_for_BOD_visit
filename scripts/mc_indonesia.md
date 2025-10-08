@@ -10,17 +10,23 @@ Kami adalah Master of Ceremony dalam pertemuan hari ini. Saya Larry, dan ini ada
 
 "Hari ini, kami merasa terhormat memiliki pemimpin-pemimpin terkemuka yang telah datang untuk berbagi wawasan dan berdialog secara bermakna dengan rekan kerja kami yang berharga. Izinkan saya memperkenalkan tamu-tamu terhormat kami:
 
-Pertama, Chief Executive Officer Bank SMBC Indonesia, Bapak Henoch Munandar, yang terus memberikan kepemimpinan visioner untuk membimbing kita menuju kesuksesan yang lebih besar.
+Pertama, President Director Bank SMBC Indonesia, Bapak Henoch Munandar, yang terus memberikan kepemimpinan visioner untuk membimbing kita menuju kesuksesan yang lebih besar.
 
-Berikutnya, kami memiliki Bapak Handrie Darusman, Communications & Daya Head, yang memainkan peran penting dalam menjaga komunikasi strategis kami.
+Berikutnya, kami memiliki Bapak Jun Saito San, Deputy President Director Bank SMBC Indonesia, yang memainkan peran penting dalam arah strategis dan operasional bank kita.
+
+Kami juga memiliki Bapak Handrie Darusman, Communications & Daya Head, yang memastikan komunikasi yang efektif di seluruh organisasi kita.
 
 Kami juga memiliki Bapak Yusri Asri, Regional Business Leader Micro Business & Regional Head, yang telah menjadi pihak yang instrumental dalam memperluas inisiatif bisnis regional kita.
 
-Selain itu, kami juga didampingi Ibu Cindyani, Corporate Communication Head, yang memastikan pesan-pesan kita jelas dan konsisten di seluruh platform.
+Kami juga memiliki Ibu Windayani, Regional Business Head SME, yang menggerakkan strategi bisnis usaha kecil dan menengah kita.
+
+Kami juga memiliki Ibu Aida Belina Tenando, Regional Business Leader WMB & Retail Regional Head, yang memimpin operasi bisnis wealth management dan retail kita.
+
+Kami juga memiliki Bapak Pujangga Pradana Putra, Regional Business Leader Pension Business, yang mengelola inisiatif bisnis pensiun kita.
 
 Kami juga memiliki Bapak Rivo Kawulur, Regional Service Head, yang memastikan layanan yang mulus di seluruh operasi regional kami.
 
-Selain itu, kami juga memiliki dua anggota penting dari tim komunikasi eksternal kami: Bapak Reyhan Pasidya dan Bapak Mustaqim Adamrah.
+Selain itu, kami juga memiliki Area Leader dan Manager kami yang berperan penting dalam memimpin operasi di seluruh cabang di wilayah ini.
 
 Bapak dan Ibu sekalian, silakan berikan sambutan hangat untuk mereka!"
 
@@ -34,11 +40,11 @@ Bapak dan Ibu sekalian, silakan berikan sambutan hangat untuk mereka!"
 
 ## Transisi ke Presentasi CEO
 
-"Terima kasih, Bapak Asri, atas presentasi yang sangat menarik. Sekarang tiba pada salah satu momen yang paling ditunggu-tunggu dalam pertemuan kita hari ini - presentasi khusus dari CEO kita, Bapak Henoch Munandar. Bapak Munandar akan berbagi visi untuk masa depan bank kita dan perkembangan strategis utama. Silakan sambut Bapak Henoch Munandar."
+"Terima kasih, Bapak Asri, atas presentasi yang sangat menarik. Sekarang tiba pada salah satu momen yang paling ditunggu-tunggu dalam pertemuan kita hari ini - presentasi khusus dari President Director kita, Bapak Henoch Munandar. Bapak Munandar akan berbagi visi untuk masa depan bank kita dan perkembangan strategis utama. Silakan sambut Bapak Henoch Munandar."
 
 ## Fasilitasi Sesi Tanya Jawab
 
-"Terima kasih, Bapak Munandar, atas presentasi yang menginspirasi. Sekarang kita menuju ke segmen interaktif yang telah banyak dari Anda nantikan - sesi Tanya Jawab dengan CEO kita. Ini adalah kesempatan Anda untuk berinteraksi langsung dengan Bapak Munandar dan mendapatkan wawasan tentang hal-hal yang penting bagi Anda.
+"Terima kasih, Bapak Munandar, atas presentasi yang menginspirasi. Sekarang kita menuju ke segmen interaktif yang telah banyak dari Anda nantikan - sesi Tanya Jawab dengan President Director kita. Ini adalah kesempatan Anda untuk berinteraksi langsung dengan Bapak Munandar dan mendapatkan wawasan tentang hal-hal yang penting bagi Anda.
 
 Kami mengundang semua karyawan untuk menyampaikan pertanyaan dan kekhawatiran Anda. Harap angkat tangan jika Anda memiliki pertanyaan, dan kami akan memfasilitasi tukar-menukar ini. Mari kita pastikan pertanyaan kita singkat dan relevan dengan tujuan organisasi kita. Bapak Munandar, sekarang kami membuka forum untuk pertanyaan dari rekan-rekan karyawan kami yang terhormat."
 
@@ -64,7 +70,7 @@ Naskah-naskah ini dapat digunakan setelah Bapak Munandar menjawab setiap pertany
 ## Opsi Tambahan Transisi Sesi Tanya Jawab
 
 ### Opsi 1 - Keterlibatan Interaktif
-"Terima kasih, Bapak Munandar, atas wawasan berharga yang telah dibagikan. Sekarang, mari kita buka forum untuk dialog interaktif. Ini adalah kesempatan Anda untuk langsung berinteraksi dengan CEO kita. Harap angkat tangan jika Anda memiliki pertanyaan. Bapak Munandar siap menjawab pertanyaan-pertanyaan Anda."
+"Terima kasih, Bapak Munandar, atas wawasan berharga yang telah dibagikan. Sekarang, mari kita buka forum untuk dialog interaktif. Ini adalah kesempatan Anda untuk langsung berinteraksi dengan President Director kita. Harap angkat tangan jika Anda memiliki pertanyaan. Bapak Munandar siap menjawab pertanyaan-pertanyaan Anda."
 
 ### Opsi 2 - Mendorong Partisipasi
 "Bapak Munandar, terima kasih atas presentasi yang komprehensif. Sekarang kami membuka sesi tanya jawab untuk pertanyaan dari rekan-rekan kami. Jangan ragu untuk mengangkat tangan jika Anda memiliki pertanyaan atau komentar. Partisipasi Anda adalah yang membuat sesi ini menjadi bermakna."

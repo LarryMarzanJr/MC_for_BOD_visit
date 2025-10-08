@@ -5,13 +5,17 @@
 * Larry (male) and Marlen (female) will be hosting the event in turn
 
 ## Key People to Highlight
-* Henoch Munandar - CEO of Bank SMBC Indonesia
+* Henoch Munandar - PRESIDENT DIRECTOR of Bank SMBC Indonesia
+* Jun Saito San - DEPUTY PRESIDENT DIRECTOR of Bank SMBC Indonesia
 * Handrie Darusman - COMMUNICATIONS & DAYA HEAD
 * Yusri Asri - REGIONAL BUSINESS LEADER MICRO BUSINESS & REGIONAL HEAD
 * Rivo Kawulur - REGIONAL SERVICE HEAD
-* Cindyani - CORPORATE COMMUNICATION HEAD
-* Reyhan Pasidya - EXTERNAL COMMUNICATION
-* Mustaqim Adamrah - EXTERNAL COMMUNICATION
+* Windayani - REGIONAL BUSINESS HEAD SME
+* Aida Belina Tenando - REGIONAL BUSINESS LEADER WMB & RETAIL REGIONAL HEAD
+* Pujangga Pradana Putra - REGIONAL BUSINESS LEADER PENSION BUSINESS
+* Bapak Ibu Area Leader & Manager
+* Seluruh Karyawan Karyawati Bank SMBC Indonesia Cabang Manado dan cabang sekitarnya
+  (Tomohon, Amurang, Bitung)
 
 ## Audience
 * Karyawan SMBC Indonesia Cabang Manado dan sekitarnya

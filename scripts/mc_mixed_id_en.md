@@ -1,6 +1,6 @@
 # Mixed MC Script for Town Hall BOD & BOM with Manado Branch Employees
 
-## Opening Welcome (English by Larry, then Indonesian with Pantun by Marlen)
+## Opening Welcome
 
 **Larry (English):**
 "Good [morning/afternoon] to all our esteemed colleagues, welcome to this important Town Hall meeting between the Board of Directors (BOD) and Board of Commissioners (BOM) with employees from Manado Branch and surrounding areas.
@@ -14,7 +14,7 @@ Bersama kita raih mimpi, gapai cita-cita
 SMBC Indonesia jaya, bersama kita wujudkan harapan
 Kehadiran Anda di sini hari ini merupakan bukti dari persatuan dan semangat kolaboratif yang kuat yang mendefinisikan organisasi kita."
 
-## Introduction of Key People (all introductions in Indonesian by Larry and Marlen, except Jun Saito San in English by Larry)
+## Introduction of Key People
 
 **Larry and Marlen (alternating in Indonesian, with Larry doing Jun Saito San in English):**
 
@@ -106,7 +106,7 @@ These scripts can be used after Mr. Munandar answers each question to transition
 
 ## Photo Session Invitation
 
-"Thank you, Mr. Asri, for those encouraging words. Before we conclude today's gathering, it is time for a moment that captures our unity and shared commitment - the group photo session. We invite all our distinguished guests and our Manado branch team members to join us for this memorable moment. Please gather at the designated photo area.
+"Thank you, Mr. Asri, for those encouraging words. Before we conclude today's gathering, it is time for a moment that captures our unity and shared commitment - the group photo session. Kami mengundang semua tamu terhormat dan anggota tim dari Kantor Cabang Manado untuk bergabung dengan kami dalam momen yang tak terlupakan ini. Harap berkumpul di area foto yang telah ditentukan.
 
 Mari kita ciptakan gambaran yang abadi tentang kebersamaan dan ikatan kuat yang menyatukan kita sebagai keluarga SMBC Indonesia."
 

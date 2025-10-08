@@ -52,3 +52,7 @@ The scripts have been created in both English and Indonesian languages, covering
 - Both MCs (Larry and Marlen) are included as per requirements.
 - All documentation is complete and ready for the Town Hall event.
 - Added 5 open transition scripts between individual questions during the Q&A session with Mr. Munandar to both English and Indonesian scripts, allowing smooth transitions without assuming knowledge of the next questioner or their question topic.
+- Updated both English and Indonesian scripts to align with the personnel listed in the rundown.md file, including Jun Saito San (DEPUTY PRESIDENT DIRECTOR), Windayani (REGIONAL BUSINESS HEAD SME), Aida Belina Tenando (REGIONAL BUSINESS LEADER WMB & RETAIL REGIONAL HEAD), and Pujangga Pradana Putra (REGIONAL BUSINESS LEADER PENSION BUSINESS).
+- Corrected Henoch Munandar's title from 'CEO' to 'President Director' as specified in the rundown.md file and updated all related references in both scripts.
+- Removed references to Cindyani, Reyhan Pasidya, and Mustaqim Adamrah from both scripts to align with the personnel in the rundown.md file.
+- Added the Area Leader & Manager personnel to both scripts as specified in the rundown.md file.

@@ -13,7 +13,7 @@ We are your Masters of Ceremony for today's gathering. I'm Larry, and my co-host
 **Marlen (Indonesian):**
 "Sebelum kita memulai acara, marilah kita bersama-sama menyanyikan lagu kebangsaan Indonesia Raya sebagai bentuk penghormatan kepada Negara Kesatuan Republik Indonesia."
 
-**Larry (English):**
+**Larry (Indonesian):**
 "Hari ini saya ada pantun untuk menyemarakkan suasana. Marlen, kamu siap?"
 
 **Marlen (Indonesian):**
@@ -22,7 +22,7 @@ We are your Masters of Ceremony for today's gathering. I'm Larry, and my co-host
 **Larry (English):**
 "Bagus! ini dia pantunnya ...
 
->(List pantun dapat mereffer di bawah di sini)[Pantun Seri Town Hall](pantun_TownHall_edition.md)."
+> (List pantun dapat mereffer di bawah di sini)[Pantun Seri Town Hall](pantun_TownHall_edition.md)."
 
 **Marlen (Indonesian):**
 "Kami ingin menyampaikan selamat datang yang hangat dan tulus kepada masing-masing dari Anda yang hadir dari Kantor Cabang SMBC Indonesia Manado dan wilayah sekitarnya."
@@ -67,10 +67,11 @@ We are your Masters of Ceremony for today's gathering. I'm Larry, and my co-host
 **Larry (Indonesian):**
 "Siap! ini dia pantunnya ..."
 
->(List pantun dapat mereffer di bawah di sini)[Pantun Seri Town Hall](pantun_TownHall_edition.md)."
+> (List pantun dapat mereffer di bawah di sini)[Pantun Seri Town Hall](pantun_TownHall_edition.md)."
 
 ## Prayer Session Introduction (English)
 
+**Marlen (English):**
 "Before we begin our formal proceedings, let us pause for a moment of prayer together. Please join me in a moment of reflection and gratitude for the opportunity to gather as one unified team. Mrs. Nancy Sherny Tongkeles will lead us in prayer. [Wait for prayer to complete]"
 
 ## Introducing Opening Speech (English start by Larry, then Indonesian end by Marlen)
@@ -79,7 +80,7 @@ We are your Masters of Ceremony for today's gathering. I'm Larry, and my co-host
 
 **Marlen:** "...kita akan memulai dengan sambutan pembukaan dan presentasi dari Regional Head, Bapak Yusri Asri. Bapak Asri akan memberikan wawasan berharga tentang operasi regional dan arah masa depan kita. Harap sambut Bapak Yusri Asri untuk sambutan pembukanya."
 
-## Transition to CEO's Presentation (alternating between Larry and Marlen)
+## Transition to CEO's Presentation (bergantian antara Larry and Marlen)
 
 **Larry:** "Thank you, Mr. Asri, for that insightful presentation. Now comes one of the most anticipated moments of our gathering..."
 
@@ -89,7 +90,7 @@ We are your Masters of Ceremony for today's gathering. I'm Larry, and my co-host
 
 **Marlen:** "Bapak Munandar akan berbagi visi untuk masa depan bank kita dan perkembangan strategis utama. Silakan sambut Bapak Henoch Munandar."
 
-## Facilitating Q&A Session (alternating between Larry and Marlen)
+## Facilitating Q&A Session (bergantian antara Larry and Marlen)
 
 **Larry:** "Thank you, Mr. Munandar, for that inspiring presentation. Now we move to an interactive segment that many of you have been looking forward to..."
 
@@ -105,7 +106,7 @@ We are your Masters of Ceremony for today's gathering. I'm Larry, and my co-host
 
 ### Transitions Between Individual Questions
 
-These scripts can be used after Mr. Munandar answers each question to transition to the next questioner (alternating between Larry and Marlen):
+> Skrip ini dapat digunakan setelah Pak Munandar menjawab setiap pertanyaan (alternatif antara Larry dan Marlen):
 
 #### English Transition (by Larry)
 "Thank you, Mr. Munandar, for that comprehensive answer. Let's take our next question from our audience."
@@ -119,7 +120,7 @@ These scripts can be used after Mr. Munandar answers each question to transition
 #### Indonesian Transition (by Marlen)
 "Sekarang kita akan pindah ke pertanyaan berikutnya. Ya, di sana di belakang. Silakan sampaikan pertanyaan Anda."
 
-## Transition to Closing Remarks (alternating between Larry and Marlen)
+## Transition to Closing Remarks (bergantian antara Larry and Marlen)
 
 **Larry:** "Thank you to all participants for your thoughtful questions and to Mr. Munandar for his comprehensive responses..."
 
@@ -135,11 +136,12 @@ These scripts can be used after Mr. Munandar answers each question to transition
 
 ## Photo Session Invitation
 
+**Marlen (English):**
 "Thank you, Mr. Asri, for those encouraging words. Before we conclude today's gathering, it is time for a moment that captures our unity and shared commitment - the group photo session. Kami mengundang semua tamu terhormat dan anggota tim dari Kantor Cabang Manado untuk bergabung dengan kami dalam momen yang tak terlupakan ini. Harap berkumpul di area foto yang telah ditentukan.
 
 Mari kita ciptakan gambaran yang abadi tentang kebersamaan dan ikatan kuat yang menyatukan kita sebagai keluarga SMBC Indonesia."
 
-## Closing Remarks (alternating between Larry and Marlen)
+## Closing Remarks (bergantian antara Larry and Marlen)
 
 **Larry:** "As we conclude today's Town Hall meeting, we want to express our sincere gratitude to all of you..."
 

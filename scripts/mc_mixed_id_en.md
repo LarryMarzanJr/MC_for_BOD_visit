@@ -14,31 +14,31 @@ Bersama kita raih mimpi, gapai cita-cita
 SMBC Indonesia jaya, bersama kita wujudkan harapan
 Kehadiran Anda di sini hari ini merupakan bukti dari persatuan dan semangat kolaboratif yang kuat yang mendefinisikan organisasi kita."
 
-## Introduction of Key People (alternating between Larry and Marlen with English and Indonesian, with Larry presenting Jun Saito San)
+## Introduction of Key People (all introductions in Indonesian by Larry and Marlen, except Jun Saito San in English by Larry)
 
-**Larry and Marlen (alternating):**
+**Larry and Marlen (alternating in Indonesian, with Larry doing Jun Saito San in English):**
 
-"**Larry (English):** Today, we are honored to have distinguished leaders who have come to share insights and engage in meaningful dialogue with our valued team members. Allow me to introduce our distinguished guests:
+**Larry (Indonesian):** "Hari ini, kami merasa sangat terhormat memiliki para pemimpin terkemuka yang telah datang untuk berbagi wawasan dan berdialog secara bermakna dengan anggota tim kami yang berharga. Izinkan kami memperkenalkan para tamu terhormat kami:
 
 **Marlen (Indonesian):** Pertama, President Director Bank SMBC Indonesia, Bapak Henoch Munandar, yang terus memberikan kepemimpinan visioner untuk membimbing kita menuju kesuksesan yang lebih besar.
 
-**Larry (English):** Next, we have Mr. Jun Saito San, our Deputy President Director of Bank SMBC Indonesia, who plays a crucial role in our strategic direction and operations.
+**Larry (English):** "Next, we have Mr. Jun Saito San, our Deputy President Director of Bank SMBC Indonesia, who plays a crucial role in our strategic direction and operations."
 
-**Marlen (Indonesian):** Kami juga memiliki Bapak Handrie Darusman, Communications & Daya Head, yang memastikan komunikasi yang efektif di seluruh organisasi kita.
+**Marlen (Indonesian):** Hadir juga bersama kita saat ini Bapak Handrie Darusman, Communications & Daya Head, yang memastikan komunikasi yang efektif di seluruh organisasi kita.
 
-**Larry (English):** Additionally, we have Mr. Yusri Asri, our Regional Business Leader for Micro Business & Regional Head, who has been instrumental in expanding our regional business initiatives.
+**Larry (Indonesian):** Hadir juga bersama kita saat ini Bapak Yusri Asri, Regional Business Leader for Micro Business & Regional Head, yang telah sangat instrumental dalam memperluas inisiatif bisnis regional kita.
 
-**Marlen (Indonesian):** Kami juga memiliki Ibu Windayani, Regional Business Head SME, yang menggerakkan strategi bisnis usaha kecil dan menengah kita.
+**Marlen (Indonesian):** Hadir juga bersama kita saat ini Ibu Windayani, Regional Business Head SME, yang menggerakkan strategi bisnis usaha kecil dan menengah kita.
 
-**Larry (English):** We also have Ms. Aida Belina Tenando, our Regional Business Leader WMB & Retail Regional Head, leading our wealth management and retail business operations.
+**Larry (Indonesian):** Hadir juga bersama kita saat ini Ibu Aida Belina Tenando, Regional Business Leader WMB & Retail Regional Head, yang memimpin operasi bisnis pengelolaan kekayaan dan retail kita.
 
-**Marlen (Indonesian):** Kami juga memiliki Bapak Pujangga Pradana Putra, Regional Business Leader Pension Business, yang mengelola inisiatif bisnis pensiun kita.
+**Marlen (Indonesian):** Hadir juga bersama kita saat ini Bapak Pujangga Pradana Putra, Regional Business Leader Pension Business, yang mengelola inisiatif bisnis pensiun kita.
 
-**Larry (English):** We also have Mr. Rivo Kawulur, our Regional Service Head, who ensures seamless service delivery across our regional operations.
+**Larry (Indonesian):** Hadir juga bersama kita saat ini Bapak Rivo Kawulur, Regional Service Head, yang memastikan layanan yang lancar di seluruh operasi regional kita.
 
-**Marlen (Indonesian):** Selain itu, kami juga memiliki Area Leader dan Manager kami yang berperan penting dalam memimpin operasi di seluruh cabang di wilayah ini.
+**Marlen (Indonesian):** Selain itu, hadir juga bersama kita saat ini Area Leader dan Manager yang berperan penting memimpin operasi di seluruh cabang di Area Manado.
 
-**Larry (English):** And of course, all of our SMBC Indonesia employees from the Manado Branch and surrounding branches. Ladies and gentlemen, please give them a warm round of applause!
+**Larry (Indonesian):** Dan tentu saja, semua karyawan SMBC Indonesia dari Kantor Cabang Manado dan sekitarnya. Bapak dan Ibu sekalian, mari kita berikan tepuk tangan yang meriah!
 
 ## Prayer Session Introduction (English)
 

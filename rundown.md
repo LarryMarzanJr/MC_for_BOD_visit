@@ -22,10 +22,20 @@
 
 ## Rundown
 * Town hall BOD & BOM dengan karyawan KC Manado dan sekitarnya
-* Opening Master of Ceremonies (Larry and Marlen)
-* Doa Bersama
-* Opening speech + paparan Regional Head
-* Paparan dari Henoch Munandar
+* Yel-yel (cheer) Smbc Indonesia, leave it as : ...
+* Opening Master of Ceremonies (Larry and Marlen), diselingi pantun, kemudian open ceremony,
+  setelah key people to highlight selingi dengan pantun. All pantun will be in Indonesian
+  and it should be interesting, slightly humour and has correlation with this event. Opening
+  will be in English script by 1st MC, then in Indonesian script by 2nd MC together with pantun we
+  mentioned earlier. Opening in English doesn't need the pantun section. Key people to
+  highlight introduction will be mostly in Indonesian script, but as for Jun Saito San, he
+  will be introduced in English script.
+* Doa Bersama oleh Mrs. Nancy Sherny Tongkeles, MC script in english
+* Opening speech + paparan Regional Head, MC script starts with English sentence, then end
+  with Indonesian.
+* Paparan dari Henoch Munandar, MC Script in English by 1st MC then in Indonesian by 2nd MC
 * QnA dengan Dirut dengan karyawan dipandu Master of Ceremonies (Larry and Marlen)
-* Penutup oleh Regional Head
+* Penutup oleh Regional Head, MC script in English by 1st MC and then Indonesian by 2nd MC
 * Photo bersama
+* MC menutup acara, wrapping up using first sentence in English, then next until last in
+  indonesian in turn by Larry and Marlen

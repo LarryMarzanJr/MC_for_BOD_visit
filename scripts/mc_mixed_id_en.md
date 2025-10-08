@@ -30,7 +30,7 @@ We are your Masters of Ceremony for today's gathering. I'm Larry, and my co-host
 
 ## Introduction of Key People
 
-**Larry and Marlen (alternating in Indonesian, with Larry doing Jun Saito San in English):**
+**Larry and Marlen (alternating in Indonesian and English):**
 
 **Larry (Indonesian):** "Hari ini, kami merasa sangat terhormat memiliki para pemimpin terkemuka yang telah datang untuk berbagi wawasan dan berdialog secara bermakna dengan anggota tim kami yang berharga. Izinkan kami memperkenalkan para tamu terhormat kami:
 

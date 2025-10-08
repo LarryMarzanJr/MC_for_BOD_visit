@@ -9,6 +9,7 @@
 ## Files Created
 - `scripts/mc_english.md` - English MC script
 - `scripts/mc_indonesia.md` - Indonesian MC script
+- `scripts/mc_mixed_id_en.md` - Mixed Indonesian-English MC script
 - `professional_Master_of_Ceremony for SMBC Indonesia.md` - MC role definition
 - `rundown.md` - Event details and schedule
 
@@ -56,3 +57,10 @@ The scripts have been created in both English and Indonesian languages, covering
 - Corrected Henoch Munandar's title from 'CEO' to 'President Director' as specified in the rundown.md file and updated all related references in both scripts.
 - Removed references to Cindyani, Reyhan Pasidya, and Mustaqim Adamrah from both scripts to align with the personnel in the rundown.md file.
 - Added the Area Leader & Manager personnel to both scripts as specified in the rundown.md file.
+- Created a mixed Indonesian-English MC script (mc_mixed_id_en.md) where Larry and Marlen alternate between languages, with the exception of Jun Saito San's introduction which is done by Larry in English.
+- On Wednesday, October 8, 2025, updated the mixed Indonesian-English MC script to ensure only Jun Saito San is introduced in English, while the rest of the key personnel introductions are in Indonesian.
+- Updated the mixed script to replace 'kami memiliki' with 'hadir juga bersama kita saat ini' for a more natural Indonesian introduction flow.
+- Updated the area leader and manager introduction to specifically mention 'Area Manado' for clarity.
+- On Wednesday, October 8, 2025, removed the "Mr." title from Jun Saito San's introduction in all scripts to align with Japanese honorific usage, since "-san" already functions as a respectful honorific similar to "Mr." or "Ms." in English.
+- On Wednesday, October 8, 2025, created additional pantun files for the Town Hall event: pantun_kocak.md (funny pantuns), pantun_acara_townhall.md (Town Hall-specific pantuns), pantun_acara_townhall_humor_positif.md (positive Town Hall pantuns), and pantun_3_acara_townhall.md (enhanced rhyme Town Hall pantuns).
+- On Wednesday, October 8, 2025, revised pantun_3_acara_townhall.md to improve humor while keeping content non-offensive and maintaining better rhyme patterns.

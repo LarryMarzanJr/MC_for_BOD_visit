@@ -10,6 +10,9 @@ We are your Masters of Ceremony for today's gathering. I'm Larry, and my co-host
 **Marlen (Indonesian):**
 "Selamat [pagi/sore] bagi semua rekan-rekan kami yang terhormat."
 
+**Marlen (Indonesian):**
+"Sebelum kita memulai acara, marilah kita bersama-sama menyanyikan lagu kebangsaan Indonesia Raya sebagai bentuk penghormatan kepada Negara Kesatuan Republik Indonesia."
+
 **Larry (English):**
 "Hari ini saya ada pantun untuk menyemarakkan suasana. Marlen, kamu siap?"
 

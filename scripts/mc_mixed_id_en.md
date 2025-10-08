@@ -7,12 +7,28 @@
 
 We are your Masters of Ceremony for today's gathering. I'm Larry, and my co-host is Marlen. It is our distinct honor to guide you through today's event."
 
-**Marlen (Indonesian with Pantun):**
-"Selamat [pagi/sore] bagi semua rekan-rekan kami yang terhormat. Kami ingin menyampaikan selamat datang yang hangat dan tulus kepada masing-masing dari Anda yang hadir dari Kantor Cabang SMBC Indonesia Manado dan wilayah sekitarnya.
+**Marlen (Indonesian):**
+"Selamat [pagi/sore] bagi semua rekan-rekan kami yang terhormat."
 
-Bersama kita raih mimpi, gapai cita-cita
-SMBC Indonesia jaya, bersama kita wujudkan harapan
-Kehadiran Anda di sini hari ini merupakan bukti dari persatuan dan semangat kolaboratif yang kuat yang mendefinisikan organisasi kita."
+**Larry (English):**
+"Hari ini saya ada pantun untuk menyemarakkan suasana. Marlen, kamu siap?"
+
+**Marlen (Indonesian):**
+"Siap, Larry! Ayo kita sampaikan pantun bersama-sama agar semarak Town Hall ini semakin hidup."
+
+**Larry (English):**
+"Bagus! ini dia pantunnya ...
+
+(List pantun dapat mereffer di bawah ini)
+[Pantun Seri Town Hall_1](pantun__acara_townhall.md)."
+[Pantun Seri Town Hall_2](pantun__acara_townhall_humor_positif.md)."
+[Pantun Seri Town Hall_3](pantun_3_acara_townhall.md)."
+
+**Marlen (Indonesian):**
+"Kami ingin menyampaikan selamat datang yang hangat dan tulus kepada masing-masing dari Anda yang hadir dari Kantor Cabang SMBC Indonesia Manado dan wilayah sekitarnya."
+
+**Larry (English):**
+"Your presence here today is evidence of the strong unity and collaborative spirit that defines our organization."
 
 ## Introduction of Key People
 
@@ -39,6 +55,23 @@ Kehadiran Anda di sini hari ini merupakan bukti dari persatuan dan semangat kola
 **Marlen (Indonesian):** Selain itu, hadir juga bersama kita saat ini Area Leader dan Manager yang berperan penting memimpin operasi di seluruh cabang di Area Manado.
 
 **Larry (Indonesian):** Dan tentu saja, semua karyawan SMBC Indonesia dari Kantor Cabang Manado dan sekitarnya. Bapak dan Ibu sekalian, mari kita berikan tepuk tangan yang meriah!
+
+## Pantun Pengantar Acara
+
+**Larry (Indonesian):**
+"Sekarang setelah kita memperkenalkan para tamu terhormat, ayo kita tambah semangat Town Hall kita dengan sesi pantun. Marlen, bagaimana kalau kita beri semangat dulu dengan pantun sebelum kita lanjutkan?"
+
+**Marlen (Indonesian):**
+"Bagus ide itu, Larry! Kami ingin mengajak semua rekan-rekan untuk semakin bersemangat dengan pantun-pantun yang menyemarakkan acara kita hari ini."
+
+**Larry (Indonesian):**
+"Siap! ini dia pantunnya ..."
+
+(List pantun dapat mereffer di bawah ini)
+[Pantun Seri Town Hall_1](pantun__acara_townhall.md)."
+[Pantun Seri Town Hall_2](pantun__acara_townhall_humor_positif.md)."
+[Pantun Seri Town Hall_3](pantun_3_acara_townhall.md)."
+
 
 ## Prayer Session Introduction (English)
 

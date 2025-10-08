@@ -4,7 +4,15 @@
 
 "Assalamu'alaikum Wr. Wb, dan selamat [pagi/sore] bagi semua rekan-rekan kami yang terhormat, selamat datang di acara Town Hall penting antara Dewan Direksi (BOD) dan Dewan Komisaris (BOM) dengan karyawan dari Kantor Cabang Manado dan sekitarnya.
 
-Kami adalah Master of Ceremony dalam pertemuan hari ini. Saya Larry, dan ini adalah Marlen. Merupakan kehormatan besar bagi kami untuk membimbing Anda melalui acara hari ini. Kami ingin menyampaikan selamat datang yang hangat dan tulus kepada masing-masing dari Anda yang hadir dari Kantor Cabang SMBC Indonesia Manado dan wilayah sekitarnya. Kehadiran Anda di sini hari ini merupakan bukti dari persatuan dan semangat kolaboratif yang kuat yang mendefinisikan organisasi kita."
+Kami adalah Master of Ceremony dalam pertemuan hari ini. Saya Larry, dan ini adalah Marlen. Merupakan kehormatan besar bagi kami untuk membimbing Anda melalui acara hari ini."
+
+"Hari ini saya ada pantun untuk menyemarakkan suasana. Marlen, kamu siap?"
+
+"Siap, Larry! Ayo kita sampaikan pantun bersama-sama agar semarak Town Hall ini semakin hidup."
+
+"Bagus! Jika Anda ingin membaca lebih banyak pantun yang kami siapkan untuk keseruan Town Hall ini, silakan merujuk ke [Pantun Seri Town Hall](pantun_3_acara_townhall.md)."
+
+"Kami ingin menyampaikan selamat datang yang hangat dan tulus kepada masing-masing dari Anda yang hadir dari Kantor Cabang SMBC Indonesia Manado dan wilayah sekitarnya. Kehadiran Anda di sini hari ini merupakan bukti dari persatuan dan semangat kolaboratif yang kuat yang mendefinisikan organisasi kita."
 
 ## Pengenalan Tokoh Penting
 
@@ -30,9 +38,19 @@ Selain itu, kami juga memiliki Area Leader dan Manager kami yang berperan pentin
 
 Bapak dan Ibu sekalian, silakan berikan sambutan hangat untuk mereka!"
 
+## Pantun Pengantar Acara
+
+"Sebelum kita lanjutkan ke sesi berikutnya, Larry dan saya ingin mengajak semua rekan-rekan untuk semakin bersemangat dengan pantun-pantun yang menyemarakkan acara kita hari ini."
+
+"Jika ingin membaca lebih banyak pantun yang kami siapkan untuk keseruan Town Hall ini, silakan merujuk ke [Pantun Seri Town Hall](pantun_3_acara_townhall.md)."
+
 ## Pengantar Sesi Doa
 
-"Sebelum kita memulai acara resmi kita, marilah kita berhenti sejenak untuk berdoa bersama. Ikutilah saya dalam saat refleksi dan rasa syukur atas kesempatan untuk berkumpul sebagai satu tim yang terpadu. [Tunggu doa selesai]"
+"Sebelum kita memulai acara resmi kita, marilah kita berhenti sejenak untuk berdoa bersama. Tapi sebelumnya, Larry, bagaimana kalau kita beri semangat dulu dengan pantun?"
+
+"Tentu, Marlen! Seperti pantun-pantun yang kami siapkan sebelumnya, kali ini kami juga ingin mengajak semua rekan-rekan untuk ikut merenung bersama dalam doa ini. Jika ingin membaca lebih banyak pantun yang kami siapkan untuk keseruan Town Hall ini, silakan merujuk ke [Pantun Seri Town Hall](pantun_3_acara_townhall.md)."
+
+"Ikutilah saya dalam saat refleksi dan rasa syukur atas kesempatan untuk berkumpul sebagai satu tim yang terpadu. [Tunggu doa selesai]"
 
 ## Pengenalan Sambutan Pembukaan
 

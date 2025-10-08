@@ -22,7 +22,7 @@ We are your Masters of Ceremony for today's gathering. I'm Larry, and my co-host
 **Larry (English):**
 "Bagus! ini dia pantunnya ...
 
-> (List pantun dapat mereffer dari link berikut)[Pantun Seri Town Hall](pantun_TownHall_edition.md)."
+> (List pantun dapat mereffer dari link berikut) [Pantun Seri Town Hall](pantun_TownHall_edition.md)."
 
 **Marlen (Indonesian):**
 "Kami ingin menyampaikan selamat datang yang hangat dan tulus kepada masing-masing dari Anda yang hadir dari Kantor Cabang SMBC Indonesia Manado dan wilayah sekitarnya."
@@ -167,4 +167,8 @@ Mari kita ciptakan gambaran yang abadi tentang kebersamaan dan ikatan kuat yang 
 
 **Marlen:** "menuju tujuan bersama kita. Terima kasih semua telah hadir, dan semoga hari Anda menyenangkan.
 
-Wassalamu'alaikum Wr. Wb."
+**Larry:** "Saya Larry! ..."
+
+**Marlen:** "... dan saya Marlen!."
+
+**Larry & Marlen :** "Kami Pamit undur Diri! Wassalamu'alaikum Wr. Wb., SYALOOM!"

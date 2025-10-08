@@ -20,9 +20,7 @@ We are your Masters of Ceremony for today's gathering. I'm Larry, and my co-host
 "Bagus! ini dia pantunnya ...
 
 (List pantun dapat mereffer di bawah ini)
-[Pantun Seri Town Hall_1](pantun__acara_townhall.md)."
-[Pantun Seri Town Hall_2](pantun__acara_townhall_humor_positif.md)."
-[Pantun Seri Town Hall_3](pantun_3_acara_townhall.md)."
+[Pantun Seri Town Hall](pantun_TownHall_edition.md)."
 
 **Marlen (Indonesian):**
 "Kami ingin menyampaikan selamat datang yang hangat dan tulus kepada masing-masing dari Anda yang hadir dari Kantor Cabang SMBC Indonesia Manado dan wilayah sekitarnya."
@@ -68,9 +66,7 @@ We are your Masters of Ceremony for today's gathering. I'm Larry, and my co-host
 "Siap! ini dia pantunnya ..."
 
 (List pantun dapat mereffer di bawah ini)
-[Pantun Seri Town Hall_1](pantun__acara_townhall.md)."
-[Pantun Seri Town Hall_2](pantun__acara_townhall_humor_positif.md)."
-[Pantun Seri Town Hall_3](pantun_3_acara_townhall.md)."
+[Pantun Seri Town Hall](pantun_TownHall_edition.md)."
 
 
 ## Prayer Session Introduction (English)

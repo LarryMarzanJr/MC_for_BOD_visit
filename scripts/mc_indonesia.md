@@ -10,7 +10,7 @@ Kami adalah Master of Ceremony dalam pertemuan hari ini. Saya Larry, dan ini ada
 
 "Siap, Larry! Ayo kita sampaikan pantun bersama-sama agar semarak Town Hall ini semakin hidup."
 
-"Bagus! Jika Anda ingin membaca lebih banyak pantun yang kami siapkan untuk keseruan Town Hall ini, silakan merujuk ke [Pantun Seri Town Hall](pantun_3_acara_townhall.md)."
+"Bagus! Jika Anda ingin membaca lebih banyak pantun yang kami siapkan untuk keseruan Town Hall ini, silakan merujuk ke [Pantun Seri Town Hall](pantun_TownHall_edition.md)."
 
 "Kami ingin menyampaikan selamat datang yang hangat dan tulus kepada masing-masing dari Anda yang hadir dari Kantor Cabang SMBC Indonesia Manado dan wilayah sekitarnya. Kehadiran Anda di sini hari ini merupakan bukti dari persatuan dan semangat kolaboratif yang kuat yang mendefinisikan organisasi kita."
 
@@ -42,13 +42,13 @@ Bapak dan Ibu sekalian, silakan berikan sambutan hangat untuk mereka!"
 
 "Sebelum kita lanjutkan ke sesi berikutnya, Larry dan saya ingin mengajak semua rekan-rekan untuk semakin bersemangat dengan pantun-pantun yang menyemarakkan acara kita hari ini."
 
-"Jika ingin membaca lebih banyak pantun yang kami siapkan untuk keseruan Town Hall ini, silakan merujuk ke [Pantun Seri Town Hall](pantun_3_acara_townhall.md)."
+"Jika ingin membaca lebih banyak pantun yang kami siapkan untuk keseruan Town Hall ini, silakan merujuk ke [Pantun Seri Town Hall](pantun_TownHall_edition.md)."
 
 ## Pengantar Sesi Doa
 
 "Sebelum kita memulai acara resmi kita, marilah kita berhenti sejenak untuk berdoa bersama. Tapi sebelumnya, Larry, bagaimana kalau kita beri semangat dulu dengan pantun?"
 
-"Tentu, Marlen! Seperti pantun-pantun yang kami siapkan sebelumnya, kali ini kami juga ingin mengajak semua rekan-rekan untuk ikut merenung bersama dalam doa ini. Jika ingin membaca lebih banyak pantun yang kami siapkan untuk keseruan Town Hall ini, silakan merujuk ke [Pantun Seri Town Hall](pantun_3_acara_townhall.md)."
+"Tentu, Marlen! Seperti pantun-pantun yang kami siapkan sebelumnya, kali ini kami juga ingin mengajak semua rekan-rekan untuk ikut merenung bersama dalam doa ini. Jika ingin membaca lebih banyak pantun yang kami siapkan untuk keseruan Town Hall ini, silakan merujuk ke [Pantun Seri Town Hall](pantun_TownHall_edition.md)."
 
 "Ikutilah saya dalam saat refleksi dan rasa syukur atas kesempatan untuk berkumpul sebagai satu tim yang terpadu. [Tunggu doa selesai]"
 

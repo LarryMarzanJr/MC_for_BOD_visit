@@ -56,9 +56,7 @@ Untuk menggaungkan semangat kita pada hari ini saya punya jargon Marlen.. ketika
 
 **Larry (Indonesian):** Hadir juga bersama kita saat ini Bapak Rivo Kawulur, Regional Service Head IBT.
 
-**Marlen (Indonesian):** Selain itu, hadir juga bersama kita saat ini Area Leader dan Area Manager yang berperan penting memimpin operasi di seluruh cabang di Area Manado.
-
-**Larry (Indonesian):** Dan tentu saja, semua karyawan SMBC Indonesia dari Kantor Cabang Manado dan sekitarnya. Bapak dan Ibu sekalian, mari kita berikan tepuk tangan yang meriah!
+**Marlen (Indonesian):** Selain itu, hadir juga bersama kita saat ini Area Leader dan Area Manager dan semua karyawan SMBC Indonesia dari Kantor Cabang Manado, Tomohon, Amurang dan Bituung.  Bapak dan Ibu sekalian, mari kita berikan tepuk tangan yang meriah!
 
 ## Pantun Pengantar Acara
 

@@ -14,7 +14,7 @@ We are your Masters of Ceremony for today's gathering. I'm Larry, and"
 "Selamat [pagi/sore] bagi semua rekan-rekan kami yang terhormat."
 
 **Marlen (Indonesian):**
-"Sebelum kita memulai acara, marilah kita bersama-sama menyanyikan lagu kebangsaan Indonesia Raya sebagai bentuk penghormatan kepada Negara Kesatuan Republik Indonesia." [Menyanyikan lagu Indonesia Raya]
+"Sebelum kita memulai acara, marilah kita bersama-sama menyanyikan lagu kebangsaan Indonesia Raya sebagai bentuk penghormatan kepada Negara Kesatuan Republik Indonesia." [Menyanyikan lagu Indonesia Raya, hadirin dimohon berdiri]
 
 **Larry (Indonesian):**
 "Sebelum kita mulai acara, marilah kita mengingat komitmen kita terhadap keunggulan saat kita terus membangun SMBC Indonesia yang lebih kuat dan berdampak - 'Melayani Dengan Tekun, Tumbuh Bersama, dan Berkontribusi untuk Negeri' (Serving Diligently, Growing Together, and Contributing to the Nation).
@@ -42,11 +42,11 @@ Untuk menggaungkan semangat kita pada hari ini saya punya jargon Marlen.. ketika
 
 **Larry and Marlen (alternating in Indonesian and English):**
 
-**Larry (Indonesian):** "Hari ini, kami merasa sangat terhormat memiliki para pemimpin terkemuka yang telah datang untuk berbagi wawasan dan berdialog secara bermakna dengan anggota tim kami yang berharga. Izinkan kami memperkenalkan para tamu terhormat kami:
+**Larry (Indonesian):** "Hari ini, kami merasa sangat terhormat memiliki para pemimpin terkemuka yang telah datang untuk berbagi wawasan dan berdialog secara bermakna dengan anggota tim kami yang berharga:
 
 **Marlen (Indonesian):** Pertama, President Director Bank SMBC Indonesia, Bapak Henoch Munandar, yang terus memberikan kepemimpinan visioner untuk membimbing kita menuju kesuksesan yang lebih besar.
 
-**Larry (English):** "Next, we have Jun Saito San, our Deputy President Director of Bank SMBC Indonesia, who plays a crucial role in our strategic direction and operations."
+**Larry (English):** "Welcome Jun Saito San, our Deputy President Director of Bank SMBC Indonesia, Manado e yokoso."
 
 **Marlen (Indonesian):** Hadir juga bersama kita saat ini Bapak Handrie Darusman, Communications & Daya Head, yang memastikan komunikasi yang efektif di seluruh organisasi kita.
 

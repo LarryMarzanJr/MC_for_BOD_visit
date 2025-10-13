@@ -68,3 +68,4 @@ The scripts have been created in both English and Indonesian languages, covering
 - On Wednesday, October 8, 2025, added a section for the Indonesia Raya national anthem in the mc_mixed_id_en.md file after the 2nd paragraph in the Opening Welcome, with the role assigned to Marlen.
 - On Wednesday, October 8, 2025, created a readable .docx version of mc_mixed_id_en.md for better accessibility and formatting.
 - On Wednesday, October 8, 2025, created a readable .docx version of pantun_TownHall_edition.md for better accessibility and formatting.
+- On Monday, October 13, 2025, added Bahasa Indonesia tagline about SMBC Indonesia to all three MC scripts (English, Indonesian, and mixed) in the opening welcome sections to highlight the organization's identity and mission.

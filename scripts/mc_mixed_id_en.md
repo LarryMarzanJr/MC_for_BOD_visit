@@ -11,6 +11,9 @@ We are your Masters of Ceremony for today's gathering. I'm Larry, and my co-host
 "Selamat [pagi/sore] bagi semua rekan-rekan kami yang terhormat."
 > bisa tambahkan sesi __**yel-yel SMBC Indonesia**__
 
+**Larry (Indonesian):**
+"Sebelum kita mulai acara, marilah kita mengingat komitmen kita terhadap keunggulan saat kita terus membangun SMBC Indonesia yang lebih kuat dan berdampak - 'Melayani Dengan Tekun, Tumbuh Bersama, dan Berkontribusi untuk Negeri' (Serving Diligently, Growing Together, and Contributing to the Nation)."
+
 **Marlen (Indonesian):**
 "Sebelum kita memulai acara, marilah kita bersama-sama menyanyikan lagu kebangsaan Indonesia Raya sebagai bentuk penghormatan kepada Negara Kesatuan Republik Indonesia." [Menyanyikan lagu Indonesia Raya]
 

@@ -8,15 +8,18 @@
 Kami adalah Master of Ceremony dalam pertemuan hari ini. Saya Larry, dan ini adalah Marlen. Merupakan kehormatan besar bagi kami untuk membimbing Anda melalui acara hari ini."
 
 **Marlen:**
+"Sebelum kita mulai acara, marilah kita mengingat komitmen kita terhadap keunggulan saat kita terus membangun SMBC Indonesia yang lebih kuat dan berdampak - 'Melayani Dengan Tekun, Tumbuh Bersama, dan Berkontribusi untuk Negeri' (Serving Diligently, Growing Together, and Contributing to the Nation)."
+
+**Larry:**
 "Hari ini kami ada beberapa pantun untuk menyemarakkan suasana. Marlen, kamu siap?"
 
-**Larry:**
+**Marlen:**
 "Siap, Larry! Ayo kita sampaikan pantun bersama-sama agar semarak Town Hall ini semakin hidup."
 
-**Marlen:**
+**Larry:**
 "Kami ingin menyampaikan selamat datang yang hangat dan tulus kepada masing-masing dari Anda yang hadir dari Kantor Cabang SMBC Indonesia Manado dan wilayah sekitarnya."
 
-**Larry:**
+**Marlen:**
 "Kehadiran Anda di sini hari ini merupakan bukti dari persatuan dan semangat kolaboratif yang kuat yang mendefinisikan organisasi kita."
 
 ## Pengenalan Tokoh Penting

@@ -70,3 +70,4 @@ The scripts have been created in both English and Indonesian languages, covering
 - On Wednesday, October 8, 2025, created a readable .docx version of pantun_TownHall_edition.md for better accessibility and formatting.
 - On Monday, October 13, 2025, added Bahasa Indonesia tagline about SMBC Indonesia to all three MC scripts (English, Indonesian, and mixed) in the opening welcome sections to highlight the organization's identity and mission.
 - On Monday, October 13, 2025, updated the mixed MC script to have Marlen continue the sentence after Larry's introduction, say the Indonesian greeting, lead the national anthem, with the tagline placed appropriately after the national anthem.
+- On Monday, October 13, 2025, removed the redundant "yel-yel SMBC Indonesia" placeholder from the mixed script since it's now covered by the tagline.

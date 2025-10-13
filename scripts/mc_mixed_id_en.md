@@ -1,7 +1,14 @@
 # Mixed MC Script for Town Hall BOD & BOM with Manado Branch Employees
 
-## Opening Welcome
+## Indonesian Anthem
+**Marlen (Indonesian):**
+"Sebelum kita memulai acara, marilah kita bersama-sama menyanyikan lagu kebangsaan Indonesia Raya sebagai bentuk penghormatan kepada Negara Kesatuan Republik Indonesia." [Menyanyikan lagu Indonesia Raya, hadirin dimohon berdiri]
 
+## Prayer Session Introduction (English)
+**Marlen (English):**
+"Before we begin our formal proceedings, let us pause for a moment of prayer together. Please join me in a moment of reflection and gratitude for the opportunity to gather as one unified team. Mrs. Nancy Sherny Tongkeles will lead us in prayer. [Wait for prayer to complete]"
+
+## Opening Welcome
 **Larry (English):**
 "Good [morning/afternoon] to all our esteemed colleagues, welcome to this important Town Hall meeting between the Board of Directors (BOD) and Board of Commissioners (BOM) with employees from Manado Branch and surrounding areas.
 
@@ -12,9 +19,6 @@ We are your Masters of Ceremony for today's gathering. I'm Larry, and"
 
 **Marlen (Indonesian):**
 "Selamat [pagi/sore] bagi semua rekan-rekan kami yang terhormat."
-
-**Marlen (Indonesian):**
-"Sebelum kita memulai acara, marilah kita bersama-sama menyanyikan lagu kebangsaan Indonesia Raya sebagai bentuk penghormatan kepada Negara Kesatuan Republik Indonesia." [Menyanyikan lagu Indonesia Raya, hadirin dimohon berdiri]
 
 **Larry (Indonesian):**
 "Sebelum kita mulai acara, marilah kita mengingat komitmen kita terhadap keunggulan saat kita terus membangun SMBC Indonesia yang lebih kuat dan berdampak - 'Melayani Dengan Tekun, Tumbuh Bersama, dan Berkontribusi untuk Negeri' (Serving Diligently, Growing Together, and Contributing to the Nation).
@@ -37,6 +41,8 @@ Untuk menggaungkan semangat kita pada hari ini saya punya jargon Marlen.. ketika
 
 **Larry (English):**
 "Your presence here today is evidence of the strong unity and collaborative spirit that defines our organization."
+
+
 
 ## Introduction of Key People
 
@@ -72,11 +78,6 @@ Untuk menggaungkan semangat kita pada hari ini saya punya jargon Marlen.. ketika
 "Siap! ini dia pantunnya ..."
 
 > (List pantun dapat mereffer dari link berikut) [Pantun Seri Town Hall](pantun_additional_TownHall.md)."
-
-## Prayer Session Introduction (English)
-
-**Marlen (English):**
-"Before we begin our formal proceedings, let us pause for a moment of prayer together. Please join me in a moment of reflection and gratitude for the opportunity to gather as one unified team. Mrs. Nancy Sherny Tongkeles will lead us in prayer. [Wait for prayer to complete]"
 
 ## Introducing Opening Speech (English start by Larry, then Indonesian end by Marlen)
 
@@ -176,3 +177,5 @@ Mari kita ciptakan gambaran yang abadi tentang kebersamaan dan ikatan kuat yang 
 **Marlen:** "... dan saya Marlen!."
 
 **Larry & Marlen :** "Kami Pamit undur Diri! Wassalamu'alaikum Wr. Wb., SYALOOM!"
+
+Dan inilah dia persembahan dari SMBC Indonesia Manado, Tarian Kabasaran! 

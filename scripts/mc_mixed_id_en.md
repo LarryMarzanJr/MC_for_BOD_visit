@@ -58,7 +58,7 @@ Untuk menggaungkan semangat kita pada hari ini saya punya jargon Marlen.. ketika
 
 **Marlen (Indonesian):** Selamat datang juga kepada Area Leader dan Area Manager serta semua karyawan SMBC Indonesia dari Kantor Cabang Manado, Tomohon, Amurang dan Bitung.
 
-**Larry & Marlen (English):** Ladies and Gentlemen, Welcome to Townhall SMBC Indonesia 2025. Mari kita berikan tepuk tangan yang meriah!
+**Larry & Marlen (English):** Ladies and Gentlemen, Welcome to Townhall SMBC Indonesia 2025 Manado! Mari kita berikan tepuk tangan yang meriah!
 
 ## Pantun Pengantar Acara
 

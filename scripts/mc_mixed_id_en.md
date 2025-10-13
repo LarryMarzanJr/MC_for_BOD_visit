@@ -17,7 +17,9 @@ We are your Masters of Ceremony for today's gathering. I'm Larry, and"
 "Sebelum kita memulai acara, marilah kita bersama-sama menyanyikan lagu kebangsaan Indonesia Raya sebagai bentuk penghormatan kepada Negara Kesatuan Republik Indonesia." [Menyanyikan lagu Indonesia Raya]
 
 **Larry (Indonesian):**
-"Sebelum kita mulai acara, marilah kita mengingat komitmen kita terhadap keunggulan saat kita terus membangun SMBC Indonesia yang lebih kuat dan berdampak - 'Melayani Dengan Tekun, Tumbuh Bersama, dan Berkontribusi untuk Negeri' (Serving Diligently, Growing Together, and Contributing to the Nation). Ini mencerminkan tagline resmi kami 'Bersama Lebih Bermakna' (Together More Meaningful) dan komitmen kami terhadap 'Do Good Be Great'."
+"Sebelum kita mulai acara, marilah kita mengingat komitmen kita terhadap keunggulan saat kita terus membangun SMBC Indonesia yang lebih kuat dan berdampak - 'Melayani Dengan Tekun, Tumbuh Bersama, dan Berkontribusi untuk Negeri' (Serving Diligently, Growing Together, and Contributing to the Nation).
+Untuk menggaungkan semangat kita pada hari ini saya punya jargon Marlen.. ketika saya mengatakan 'Bersama Lebih Bermakna' maka teman-teman harus mengangkat tangan dan mengatakan 'Do Good Be Great'."
+> Jargon bisa diulang 3x
 
 **Larry (Indonesian):**
 "Hari ini saya ada pantun untuk menyemarakkan suasana. Marlen, kamu siap?"

@@ -50,17 +50,13 @@ Untuk menggaungkan semangat kita pada hari ini saya punya jargon Marlen.. ketika
 
 **Marlen (Indonesian):** Hadir juga bersama kita saat ini Bapak Handrie Darusman, Communications & Daya Head, yang memastikan komunikasi yang efektif di seluruh organisasi kita.
 
-**Larry (Indonesian):** Hadir juga bersama kita saat ini Bapak Yusri Asri, Regional Business Leader for Micro Business & Regional Head, yang telah sangat instrumental dalam memperluas inisiatif bisnis regional kita.
+**Larry (Indonesian):** Hadir juga bersama kita saat ini Bapak Yusri Asri, Region Head.
 
-**Marlen (Indonesian):** Hadir juga bersama kita saat ini Ibu Windayani, Regional Business Head SME, yang menggerakkan strategi bisnis usaha kecil dan menengah kita.
+**Marlen (Indonesian):** Selamat datang kepada Ibu Windayani, Regional Business Head SME
 
-**Larry (Indonesian):** Hadir juga bersama kita saat ini Ibu Aida Belina Tenando, Regional Business Leader WMB & Retail Regional Head, yang memimpin operasi bisnis pengelolaan kekayaan dan retail kita.
+**Larry (Indonesian):** Hadir juga bersama kita saat ini Bapak Rivo Kawulur, Regional Service Head IBT.
 
-**Marlen (Indonesian):** Hadir juga bersama kita saat ini Bapak Pujangga Pradana Putra, Regional Business Leader Pension Business, yang mengelola inisiatif bisnis pensiun kita.
-
-**Larry (Indonesian):** Hadir juga bersama kita saat ini Bapak Rivo Kawulur, Regional Service Head, yang memastikan layanan yang lancar di seluruh operasi regional kita.
-
-**Marlen (Indonesian):** Selain itu, hadir juga bersama kita saat ini Area Leader dan Manager yang berperan penting memimpin operasi di seluruh cabang di Area Manado.
+**Marlen (Indonesian):** Selain itu, hadir juga bersama kita saat ini Area Leader dan Area Manager yang berperan penting memimpin operasi di seluruh cabang di Area Manado.
 
 **Larry (Indonesian):** Dan tentu saja, semua karyawan SMBC Indonesia dari Kantor Cabang Manado dan sekitarnya. Bapak dan Ibu sekalian, mari kita berikan tepuk tangan yang meriah!
 

@@ -77,6 +77,18 @@ Ok, saya mulai ya, 'Bersama lebih bermakna'
 
 > (List pantun dapat mereffer dari link berikut) [Pantun Seri Town Hall](pantun_additional_TownHall.md)."
 
+**Pantun 1:**
+Para Leader datang bersama
+Dari berbagai penjuru kota
+Membawa harapan dan rencana
+Agar SMBC jaya senantiasa
+
+**Pantun 2:**
+Gaji datang di akhir bulan
+Membuat senyum menghiasi wajah
+Bisa bayar semua tagihan
+Dan tabungan pun makin berlimpah
+
 ## Introducing Opening Speech (English start by Larry, then Indonesian end by Marlen)
 
 **Larry:** "Now, let's begin our formal program. As outlined in our agenda..."

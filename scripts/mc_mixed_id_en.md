@@ -20,6 +20,28 @@ We are your Masters of Ceremony for today's gathering. I'm Larry, and"
 **Marlen (Indonesian):**
 "Selamat [pagi/sore] bagi semua rekan-rekan kami yang terhormat."
 
+## Introduction of Key People
+**Larry and Marlen (alternating in Indonesian and English):**
+
+**Larry (Indonesian):** "Hari ini, kami merasa sangat terhormat memiliki para pemimpin terkemuka yang telah datang untuk berbagi wawasan dan berdialog secara bermakna dengan anggota tim kami yang berharga:
+
+**Marlen (Indonesian):** Pertama, President Director Bank SMBC Indonesia, Bapak Henoch Munandar, yang terus memberikan kepemimpinan visioner untuk membimbing kita menuju kesuksesan yang lebih besar.
+
+**Larry (English):** "Welcome Jun Saito San, our Deputy President Director of Bank SMBC Indonesia, Manado e yokoso."
+
+**Marlen (Indonesian):** Hadir juga bersama kita saat ini Bapak Handrie Darusman, Communications & Daya Head, yang memastikan komunikasi yang efektif di seluruh organisasi kita.
+
+**Larry (Indonesian):** Hadir juga bersama kita saat ini Bapak Yusri Asri, Region Head.
+
+**Marlen (Indonesian):** Selamat datang kepada Ibu Windayani, Regional Business Head SME
+
+**Larry (Indonesian):** Hadir juga bersama kita saat ini Bapak Rivo Kawulur, Regional Service Head IBT.
+
+**Marlen (Indonesian):** Selamat datang juga kepada Area Leader dan Area Manager serta semua karyawan SMBC Indonesia dari Kantor Cabang Manado, Tomohon, Amurang dan Bitung.
+
+**Larry & Marlen (English):** Ladies and Gentlemen, Welcome to Townhall SMBC Indonesia 2025 Manado! Mari kita berikan tepuk tangan yang meriah!
+
+## Get Audience Attention
 **Larry (Indonesian):**
 "Sebelum kita mulai acara, marilah kita mengingat komitmen kita terhadap keunggulan saat kita terus membangun SMBC Indonesia yang lebih kuat dan berdampak - "Bersama Lebih Bermakna".
 Untuk menggaungkan semangat kita pada hari ini saya punya jargon Marlen.. ketika saya mengatakan 'Bersama Lebih Bermakna' maka teman-teman harus mengangkat tangan dan mengatakan 'Do Good Be Great'."
@@ -42,32 +64,7 @@ Untuk menggaungkan semangat kita pada hari ini saya punya jargon Marlen.. ketika
 **Larry (English):**
 "Your presence here today is evidence of the strong unity and collaborative spirit that defines our organization."
 
-
-
-## Introduction of Key People
-
-**Larry and Marlen (alternating in Indonesian and English):**
-
-**Larry (Indonesian):** "Hari ini, kami merasa sangat terhormat memiliki para pemimpin terkemuka yang telah datang untuk berbagi wawasan dan berdialog secara bermakna dengan anggota tim kami yang berharga:
-
-**Marlen (Indonesian):** Pertama, President Director Bank SMBC Indonesia, Bapak Henoch Munandar, yang terus memberikan kepemimpinan visioner untuk membimbing kita menuju kesuksesan yang lebih besar.
-
-**Larry (English):** "Welcome Jun Saito San, our Deputy President Director of Bank SMBC Indonesia, Manado e yokoso."
-
-**Marlen (Indonesian):** Hadir juga bersama kita saat ini Bapak Handrie Darusman, Communications & Daya Head, yang memastikan komunikasi yang efektif di seluruh organisasi kita.
-
-**Larry (Indonesian):** Hadir juga bersama kita saat ini Bapak Yusri Asri, Region Head.
-
-**Marlen (Indonesian):** Selamat datang kepada Ibu Windayani, Regional Business Head SME
-
-**Larry (Indonesian):** Hadir juga bersama kita saat ini Bapak Rivo Kawulur, Regional Service Head IBT.
-
-**Marlen (Indonesian):** Selamat datang juga kepada Area Leader dan Area Manager serta semua karyawan SMBC Indonesia dari Kantor Cabang Manado, Tomohon, Amurang dan Bitung.
-
-**Larry & Marlen (English):** Ladies and Gentlemen, Welcome to Townhall SMBC Indonesia 2025 Manado! Mari kita berikan tepuk tangan yang meriah!
-
 ## Pantun Pengantar Acara
-
 **Larry (Indonesian):**
 "Sekarang setelah kita memperkenalkan para tamu terhormat, ayo kita tambah semangat Town Hall kita dengan sesi pantun. Marlen, bagaimana kalau kita beri semangat dulu dengan pantun sebelum kita lanjutkan?"
 

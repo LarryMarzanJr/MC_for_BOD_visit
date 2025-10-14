@@ -1,8 +1,22 @@
 # Mixed MC Script for Town Hall BOD & BOM with Manado Branch Employees
 
 ## Indonesian Anthem
+**Larry (Indonesian):**
+Semangat Pagi! (pagi..). Kayaknya harus lebih semangat nih..!"
+
+**Marlen (Indonesian):**
+Iya, ayo lebih semangat, 
+
+**Larry (Indonesian):**
+kalo saya bilang "Semangat pagi" bapak ibu menjawab
+"Pagi, Pagi, Pagi!" . Kemudian saya bilang "SMBC Indonesia" bapak ibu menjawab
+
+**Marlen (Indonesian):**
+"Melesat bersama, tumbuh bermakna! Yes! Yes! Yes!"
+
 **Marlen (Indonesian):**
 "Sebelum kita memulai acara, marilah kita bersama-sama menyanyikan lagu kebangsaan Indonesia Raya sebagai bentuk penghormatan kepada Negara Kesatuan Republik Indonesia."
+
 > Menyanyikan lagu Indonesia Raya, hadirin dimohon berdiri
 
 ## Prayer Session Introduction (Indonesian)
@@ -27,21 +41,25 @@ We are your Masters of Ceremony for today's gathering. I'm Larry, and"
 
 **Larry (Indonesian):** "Hari ini, kami merasa sangat terhormat memiliki para pemimpin terkemuka yang telah datang untuk berbagi wawasan dan berdialog secara bermakna dengan anggota tim kami yang berharga:
 
-**Marlen (Indonesian):** Diucapkan selamat datang kepada President Director Bank SMBC Indonesia, Bapak Henoch Munandar, yang terus memberikan kepemimpinan visioner untuk membimbing kita menuju kesuksesan yang lebih besar.
+**Marlen (Indonesian):** "Diucapkan selamat datang kepada Direktur Utama Bank SMBC Indonesia, Bapak Henoch Munandar, yang terus memberikan kepemimpinan visioner untuk membimbing kita menuju kesuksesan yang lebih besar. 'Selamat Sore Pak Henoch..'"
 
-**Larry (English):** "Welcome Jun Saito San, our Deputy President Director of Bank SMBC Indonesia, Manado e yokoso."
+**Larry (English):** "Welcome Jun Saito San, our Deputy President Director of Bank SMBC Indonesia, 'Saito San, Manado e yokoso.'"
 
-**Marlen (Indonesian):** Hadir juga bersama kita saat ini Bapak Andrie Darusman, Communications & Daya Head, yang memastikan komunikasi yang efektif di seluruh organisasi kita.
+**Marlen (Indonesian):** Hadir juga bersama kita saat ini Bapak Andrie Darusman, Communications & Daya Head, yang memastikan komunikasi yang efektif di seluruh organisasi kita. "Selamat datang Pak Andrie.."
 
-**Larry (Indonesian):** Hadir juga bersama kita saat ini Bapak Yusri Asri, Region Head.
+**Larry (Indonesian):** Hadir juga bersama kita saat ini Bapak Yusri Asri, Region Head
+IBT. "Selamat datang Pak Yusri.."
 
-**Marlen (Indonesian):** Selamat datang kepada Ibu Windayani, Regional Business Head SME
+**Marlen (Indonesian):** Selamat datang kepada Ibu Windayani, Regional Business Head SME.
+"Halo Bu Winda.."
 
-**Larry (Indonesian):** Hadir juga bersama kita saat ini Bapak Rivo Kawulur, Regional Service Head IBT.
+**Larry (Indonesian):** Hadir juga bersama kita saat ini Bapak Rivo Kawulur, Regional Service Head IBT. "Selamat datang Pak Rivo.."
 
 **Marlen (Indonesian):** Selamat datang juga kepada Area Leader dan Area Manager serta semua karyawan SMBC Indonesia dari Kantor Cabang Manado, Tomohon, Amurang dan Bitung.
 
-**Larry & Marlen (English):** Ladies and Gentlemen, Welcome to Townhall SMBC Indonesia 2025 Manado! Mari kita berikan tepuk tangan yang meriah!
+**Larry & Marlen (English):** Ladies and Gentlemen, Welcome to Townhall SMBC Indonesia 2025 Manado!
+
+**Larry (Indonesian):** Kita kita berikan tepuk tangan yang meriah!
 
 ## Get Audience Attention
 **Larry (Indonesian):**
@@ -100,40 +118,41 @@ Dan tabungan pun makin berlimpah
 
 ## Transition to CEO's Presentation (bergantian antara Larry and Marlen)
 
-**Larry:** "Thank you, Mr. Asri, for that insightful presentation. Now comes one of the most anticipated moments of our gathering..."
+**Larry:** "Thank you, Mr. Yusri, for that insightful presentation. Now comes one of the most anticipated moments of our gathering..."
 
-**Marlen:** "...yaitu presentasi khusus dari President Director kita, Bapak Henoch Munandar."
+**Marlen:** "...yaitu presentasi khusus dari Direktur Utama kita, Bapak Henoch Munandar, dan"
 
-**Larry:** "Mr. Munandar will share his vision for our bank's future and key strategic developments."
+**Larry:** "Deputy President Director, Saito San."
+**Larry:** "Mr. Henoch and Saito San will share their vision for our bank's future and key strategic developments."
 
-**Marlen:** "Bapak Munandar akan berbagi visi untuk masa depan bank kita dan perkembangan strategis utama.
+**Marlen:** "Bapak Henoch dan Saito San akan berbagi visi untuk masa depan bank kita dan perkembangan strategis utama.
 
 **Larry & Marlen:** "
-"Kita sambut, Bapak Henoch Munandar."
+"Kita sambut, Bapak Henoch Munandar dan Jun Saito San."
 
 ## Facilitating Q&A Session (bergantian antara Larry and Marlen)
 
-**Larry:** "Thank you, Mr. Munandar, for that inspiring presentation. Now we move to an interactive segment that many of you have been looking forward to..."
+**Larry:** "Thank you, Mr. Henoch, for that inspiring presentation. Now we move to an interactive segment that many of you have been looking forward to..."
+"Ini dia nih momen yang sangat jarang terjadi dan sangat ditunggu-tunggu oleh seluruh karyawan ..."
 
-**Marlen:** "...yaitu sesi Tanya Jawab dengan President Director kita."
+**Marlen:** "...yaitu sesi Tanya Jawab dengan Direktur Utama kita, Bapak Henoch."
 
-**Larry:** "This is your opportunity to engage directly with Mr. Munandar and gain insights on matters important to you."
+**Larry:** "And also with our Deputy President Director, Saito San."
+**Larry:** "This is your opportunity to engage directly with Mr. Henoch and Saito San , to gain insights on matters important to you."
 
-**Marlen:** "Kami mengundang semua karyawan untuk menyampaikan pertanyaan dan kekhawatiran Anda. Harap angkat tangan jika Anda memiliki pertanyaan."
+**Marlen:** "Kami mengundang semua karyawan untuk menyampaikan pertanyaan Anda. Harap angkat tangan jika Anda memiliki pertanyaan."
 
-**Larry:** "Please raise your hand if you have a question, and we will facilitate the exchange."
-
-**Marlen:** "Mari kita pastikan pertanyaan kita singkat dan relevan dengan tujuan organisasi kita. Bapak Munandar, sekarang kami membuka forum untuk pertanyaan dari rekan-rekan karyawan kami yang terhormat."
+**Larry:** "Mari kita pastikan pertanyaan kita singkat dan relevan ya tentunya.. Silahkan bapak-ibu dan rekan-rekan sekalian.."
 
 ### Transitions Between Individual Questions
 
 > Skrip ini dapat digunakan setelah Pak Munandar menjawab setiap pertanyaan (alternatif antara Larry dan Marlen):
 
 #### English Transition (by Larry)
-"Thank you, Mr. Munandar, for that comprehensive answer. Let's take our next question from our audience."
+"Thank you, Mr. Henoch, for that comprehensive answer. Let's take our next question from our audience."
 
 #### Indonesian Transition (by Marlen)
-"Terima kasih, Bapak Munandar, atas jawaban yang komprehensif. Mari kita lanjutkan dengan pertanyaan berikutnya dari hadirin."
+"Terima kasih, Bapak Henoch, atas jawaban yang komprehensif. Mari kita lanjutkan dengan pertanyaan berikutnya dari hadirin."
 
 #### English Transition (by Larry)
 "Now we'll move to our next question. Yes, right there in the back. Please proceed with your question."
@@ -143,23 +162,26 @@ Dan tabungan pun makin berlimpah
 
 ## Transition to Closing Remarks (bergantian antara Larry and Marlen)
 
-**Larry:** "Thank you to all participants for your thoughtful questions and to Mr. Munandar for his comprehensive responses..."
+**Larry:** "Thank you to all participants for your thoughtful questions and to Mr. Henoch and Saito San for his comprehensive responses..."
 
 **Marlen:** "...sesi Tanya Jawab ini benar-benar mencerminkan budaya komunikasi terbuka yang kita hargai di SMBC Indonesia."
 
 **Larry:** "This Q&A session truly reflects the open communication culture we value at SMBC Indonesia."
 
-**Marlen:** "Kita sekarang akan menutup program resmi kita dengan sambutan penutup dari Regional Head kita..."
+**Marlen:** "Kita sekarang akan menutup program resmi kita dengan sambutan penutup dari Regional Head kita Bapak Yusri Asri."
 
-**Larry:** "...we will now conclude our formal program with closing remarks from our Regional Head, Mr. Yusri Asri."
-
-**Marlen:** "Harap sambut Bapak Asri untuk kata-kata penutupnya."
 
 ## Photo Session Invitation
 
-**Marlen (English):**
-"Thank you, Mr. Asri, for those encouraging words. Before we conclude today's gathering, it is time for a moment that captures our unity and shared commitment - the group photo session. Kami mengundang semua tamu terhormat dan anggota tim dari Kantor Cabang Manado untuk bergabung dengan kami dalam momen yang tak terlupakan ini. Harap berkumpul di area foto yang telah ditentukan.
+**Marlen (Indonesian):**
+"Terima kasih Pak Yusri, untuk pesan-pesan yang menyemangatkan. Sebelum kita merampungkan
+acara ini, tiba waktunya kita mengambil momen yang melambangkan persatuan dan komitmen
+melalui sesi foto bersama.
 
+**Larry (English):**
+"Yes, this is the time for a moment that captures our unity and shared commitment - the group photo session. Kami mengundang semua tamu terhormat dan anggota tim dari Kantor Cabang Manado, Amurang, Bitung, Tomohon  untuk bergabung dengan kami dalam momen yang tak terlupakan ini. Harap berkumpul di area foto yang telah ditentukan.
+
+**Marlen (Indonesian):**
 Mari kita ciptakan gambaran yang abadi tentang kebersamaan dan ikatan kuat yang menyatukan kita sebagai keluarga SMBC Indonesia."
 
 ## Closing Remarks (bergantian antara Larry and Marlen)
@@ -192,6 +214,4 @@ Mari kita ciptakan gambaran yang abadi tentang kebersamaan dan ikatan kuat yang 
 
 **Marlen:** "... dan saya Marlen!."
 
-**Larry & Marlen :** "Kami Pamit undur Diri! Wassalamu'alaikum Wr. Wb., SYALOOM!"
-
-Dan inilah dia persembahan dari SMBC Indonesia Manado, Tarian Kabasaran! 
+**Larry & Marlen :** "Kami Pamit undur Diri!" Dan inilah dia persembahan dari SMBC Indonesia Manado, Tarian Kabasaran! 

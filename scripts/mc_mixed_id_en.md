@@ -14,6 +14,11 @@ kalo saya bilang "Semangat pagi" bapak ibu menjawab
 **Marlen (Indonesian):**
 "Melesat bersama, tumbuh bermakna! Yes! Yes! Yes!"
 
+**Larry (Indonesian):**
+"Ok, bapak ibu siap? (siap..) Baik, kita mulai,
+'Semangat Pagi', [Pagi, Pagi, Pagi]"
+'SMBC Indonesia', [Melesat bersama, Tumbuh bermakna! Yes! Yes! Yes!]" 
+
 **Marlen (Indonesian):**
 "Sebelum kita memulai acara, marilah kita bersama-sama menyanyikan lagu kebangsaan Indonesia Raya sebagai bentuk penghormatan kepada Negara Kesatuan Republik Indonesia."
 
@@ -21,7 +26,7 @@ kalo saya bilang "Semangat pagi" bapak ibu menjawab
 
 ## Prayer Session Introduction (Indonesian)
 **Marlen (Indonesian):**
-"Sebelum kita memulai acara secara resmi, marilah kita berhenti sejenak untuk berdoa bersama. Mari kita bersatu dalam rasa syukur atas kesempatan untuk berkumpul sebagai satu tim yang terpadu. Ibu Nancy Sherny Tongkeles akan memimpin kita dalam doa.
+"Marilah kita berhenti sejenak untuk berdoa bersama. Mari kita bersatu dalam rasa syukur atas kesempatan untuk berkumpul sebagai satu tim yang terpadu. Ibu Nancy Sherny Tongkeles akan memimpin kita dalam doa.
 > Tunggu doa selesai
 
 ## Opening Welcome

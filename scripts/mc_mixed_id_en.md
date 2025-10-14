@@ -27,11 +27,11 @@ We are your Masters of Ceremony for today's gathering. I'm Larry, and"
 
 **Larry (Indonesian):** "Hari ini, kami merasa sangat terhormat memiliki para pemimpin terkemuka yang telah datang untuk berbagi wawasan dan berdialog secara bermakna dengan anggota tim kami yang berharga:
 
-**Marlen (Indonesian):** Pertama, President Director Bank SMBC Indonesia, Bapak Henoch Munandar, yang terus memberikan kepemimpinan visioner untuk membimbing kita menuju kesuksesan yang lebih besar.
+**Marlen (Indonesian):** Diucapkan selamat datang kepada President Director Bank SMBC Indonesia, Bapak Henoch Munandar, yang terus memberikan kepemimpinan visioner untuk membimbing kita menuju kesuksesan yang lebih besar.
 
 **Larry (English):** "Welcome Jun Saito San, our Deputy President Director of Bank SMBC Indonesia, Manado e yokoso."
 
-**Marlen (Indonesian):** Hadir juga bersama kita saat ini Bapak Handrie Darusman, Communications & Daya Head, yang memastikan komunikasi yang efektif di seluruh organisasi kita.
+**Marlen (Indonesian):** Hadir juga bersama kita saat ini Bapak Andrie Darusman, Communications & Daya Head, yang memastikan komunikasi yang efektif di seluruh organisasi kita.
 
 **Larry (Indonesian):** Hadir juga bersama kita saat ini Bapak Yusri Asri, Region Head.
 
@@ -74,24 +74,6 @@ Ok, saya mulai ya, 'Bersama lebih bermakna'
 
 **Larry (English):**
 "Bagus! ini dia pantunnya ...
-
-> (List pantun dapat mereffer dari link berikut) [Pantun Seri Town Hall](pantun_additional_TownHall.md)."
-
-**Marlen (Indonesian):**
-"Kami ingin menyampaikan selamat datang yang hangat dan tulus kepada masing-masing dari Anda yang hadir dari Kantor Cabang SMBC Indonesia Manado dan wilayah sekitarnya."
-
-**Larry (English):**
-"Your presence here today is evidence of the strong unity and collaborative spirit that defines our organization."
-
-## Pantun Pengantar Acara
-**Larry (Indonesian):**
-"Setelah kita memperkenalkan para tamu terhormat, ayo kita tambah semangat Town Hall kita dengan sesi pantun. Marlen, bagaimana kalau kita beri semangat dulu dengan pantun sebelum kita lanjutkan?"
-
-**Marlen (Indonesian):**
-"Ide bagus itu, Larry! Kami ingin mengajak semua rekan-rekan untuk semakin bersemangat dengan pantun-pantun yang menyemarakkan acara kita hari ini."
-
-**Larry (Indonesian):**
-"Siap! ini dia pantunnya ..."
 
 > (List pantun dapat mereffer dari link berikut) [Pantun Seri Town Hall](pantun_additional_TownHall.md)."
 

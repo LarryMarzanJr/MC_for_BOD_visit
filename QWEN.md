@@ -74,3 +74,4 @@ The scripts have been created in both English and Indonesian languages, covering
 - On Monday, October 13, 2025, created a new file with 20 additional funny pantuns related to the SMBC Indonesia Town Hall event for use during the MC segments.
 - On Monday, October 13, 2025, updated all 20 additional pantuns to follow proper traditional Indonesian pantun structure with correct rhyme patterns.
 - On Monday, October 13, 2025, updated all three MC scripts (English, Indonesian, and mixed) to include the official SMBC Indonesia taglines "Bersama Lebih Bermakna" and "Do Good Be Great".
+- On Monday, October 13, 2025, made custom modifications to the mixed MC script to include interactive elements, updated introductions, and added cultural performance at the end.

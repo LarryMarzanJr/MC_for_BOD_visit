@@ -2,11 +2,13 @@
 
 ## Indonesian Anthem
 **Marlen (Indonesian):**
-"Sebelum kita memulai acara, marilah kita bersama-sama menyanyikan lagu kebangsaan Indonesia Raya sebagai bentuk penghormatan kepada Negara Kesatuan Republik Indonesia." [Menyanyikan lagu Indonesia Raya, hadirin dimohon berdiri]
+"Sebelum kita memulai acara, marilah kita bersama-sama menyanyikan lagu kebangsaan Indonesia Raya sebagai bentuk penghormatan kepada Negara Kesatuan Republik Indonesia."
+> Menyanyikan lagu Indonesia Raya, hadirin dimohon berdiri
 
 ## Prayer Session Introduction (Indonesian)
 **Marlen (Indonesian):**
-"Sebelum kita memulai acara secara resmi, marilah kita berhenti sejenak untuk berdoa bersama. Mari kita bersatu dalam rasa syukur atas kesempatan untuk berkumpul sebagai satu tim yang terpadu. Ibu Nancy Sherny Tongkeles akan memimpin kita dalam doa. [Tunggu doa selesai]"
+"Sebelum kita memulai acara secara resmi, marilah kita berhenti sejenak untuk berdoa bersama. Mari kita bersatu dalam rasa syukur atas kesempatan untuk berkumpul sebagai satu tim yang terpadu. Ibu Nancy Sherny Tongkeles akan memimpin kita dalam doa.
+> Tunggu doa selesai
 
 ## Opening Welcome
 **Larry (English):**

@@ -28,14 +28,6 @@ BOD hadir dengan senyum lebar
 Semua karyawan jadi bergembira
 ```
 
-### 4. Pantun Kocak tentang Q&A yang Seru
-```
-Sesi tanya jawab saatnya kini
-Karyawan antre ingin bertanya
-Bersemangat sambut acara ini
-Berharap gaji tambah besar punya
-```
-
 ### 5. Pantun Kocak tentang MC Larry dan Marlen
 ```
 Larry dan Marlen kompak selalu
@@ -44,9 +36,9 @@ Hiburkan kami semua jangan berlalu
 Agar semangat tetap membara
 ```
 
-### 6. Pantun Kocak tentang Area Leader
+### 6. Pantun Kocak tentang Area Leader (recommended)
 ```
-Area Leader datang bersama
+Para Leader datang bersama
 Dari berbagai penjuru kota
 Membawa harapan dan rencana
 Agar SMBC jaya senantiasa

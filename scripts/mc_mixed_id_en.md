@@ -4,9 +4,9 @@
 **Marlen (Indonesian):**
 "Sebelum kita memulai acara, marilah kita bersama-sama menyanyikan lagu kebangsaan Indonesia Raya sebagai bentuk penghormatan kepada Negara Kesatuan Republik Indonesia." [Menyanyikan lagu Indonesia Raya, hadirin dimohon berdiri]
 
-## Prayer Session Introduction (English)
-**Marlen (English):**
-"Before we begin our formal proceedings, let us pause for a moment of prayer together. Please join me in a moment of reflection and gratitude for the opportunity to gather as one unified team. Mrs. Nancy Sherny Tongkeles will lead us in prayer. [Wait for prayer to complete]"
+## Prayer Session Introduction (Indonesian)
+**Marlen (Indonesian):**
+"Sebelum kita memulai acara secara resmi, marilah kita berhenti sejenak untuk berdoa bersama. Mari kita bersatu dalam rasa syukur atas kesempatan untuk berkumpul sebagai satu tim yang terpadu. Ibu Nancy Sherny Tongkeles akan memimpin kita dalam doa. [Tunggu doa selesai]"
 
 ## Opening Welcome
 **Larry (English):**
@@ -21,7 +21,7 @@ We are your Masters of Ceremony for today's gathering. I'm Larry, and"
 "Selamat [pagi/sore] bagi semua rekan-rekan kami yang terhormat."
 
 **Larry (Indonesian):**
-"Sebelum kita mulai acara, marilah kita mengingat komitmen kita terhadap keunggulan saat kita terus membangun SMBC Indonesia yang lebih kuat dan berdampak - 'Melayani Dengan Tekun, Tumbuh Bersama, dan Berkontribusi untuk Negeri' (Serving Diligently, Growing Together, and Contributing to the Nation).
+"Sebelum kita mulai acara, marilah kita mengingat komitmen kita terhadap keunggulan saat kita terus membangun SMBC Indonesia yang lebih kuat dan berdampak - "Bersama Lebih Bermakna".
 Untuk menggaungkan semangat kita pada hari ini saya punya jargon Marlen.. ketika saya mengatakan 'Bersama Lebih Bermakna' maka teman-teman harus mengangkat tangan dan mengatakan 'Do Good Be Great'."
 > Jargon bisa diulang 3x
 

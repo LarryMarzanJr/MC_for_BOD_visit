@@ -71,3 +71,6 @@ The scripts have been created in both English and Indonesian languages, covering
 - On Monday, October 13, 2025, added Bahasa Indonesia tagline about SMBC Indonesia to all three MC scripts (English, Indonesian, and mixed) in the opening welcome sections to highlight the organization's identity and mission.
 - On Monday, October 13, 2025, updated the mixed MC script to have Marlen continue the sentence after Larry's introduction, say the Indonesian greeting, lead the national anthem, with the tagline placed appropriately after the national anthem.
 - On Monday, October 13, 2025, removed the redundant "yel-yel SMBC Indonesia" placeholder from the mixed script since it's now covered by the tagline.
+- On Monday, October 13, 2025, created a new file with 20 additional funny pantuns related to the SMBC Indonesia Town Hall event for use during the MC segments.
+- On Monday, October 13, 2025, updated all 20 additional pantuns to follow proper traditional Indonesian pantun structure with correct rhyme patterns.
+- On Monday, October 13, 2025, updated all three MC scripts (English, Indonesian, and mixed) to include the official SMBC Indonesia taglines "Bersama Lebih Bermakna" and "Do Good Be Great".

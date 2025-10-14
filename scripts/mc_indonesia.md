@@ -8,7 +8,7 @@
 Kami adalah Master of Ceremony dalam pertemuan hari ini. Saya Larry, dan ini adalah Marlen. Merupakan kehormatan besar bagi kami untuk membimbing Anda melalui acara hari ini."
 
 **Marlen:**
-"Sebelum kita mulai acara, marilah kita mengingat komitmen kita terhadap keunggulan saat kita terus membangun SMBC Indonesia yang lebih kuat dan berdampak - 'Melayani Dengan Tekun, Tumbuh Bersama, dan Berkontribusi untuk Negeri' (Serving Diligently, Growing Together, and Contributing to the Nation)."
+"Sebelum kita mulai acara, marilah kita mengingat komitmen kita terhadap keunggulan saat kita terus membangun SMBC Indonesia yang lebih kuat dan berdampak - 'Melayani Dengan Tekun, Tumbuh Bersama, dan Berkontribusi untuk Negeri' (Serving Diligently, Growing Together, and Contributing to the Nation). Ini mencerminkan tagline resmi kami 'Bersama Leber Bermakna' (Together More Meaningful) dan komitmen kami terhadap 'Do Good Be Great'."
 
 **Larry:**
 "Hari ini kami ada beberapa pantun untuk menyemarakkan suasana. Marlen, kamu siap?"

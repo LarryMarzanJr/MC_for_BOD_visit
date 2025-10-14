@@ -6,7 +6,7 @@
 
 We are your Masters of Ceremony for today's gathering. I'm Larry, and this is Marlen. It is our distinct honor to guide you through today's event. We would like to extend a warm and heartfelt welcome to each and every one of you from SMBC Indonesia Manado Branch and the surrounding regions. Your presence here today is a testament to the strong unity and collaborative spirit that defines our organization.
 
-Before we begin, let us remember our commitment to excellence as we continue to build a stronger and more impactful SMBC Indonesia - 'Melayani Dengan Tekun, Tumbuh Bersama, dan Berkontribusi untuk Negeri' (Serving Diligently, Growing Together, and Contributing to the Nation)."
+Before we begin, let us remember our commitment to excellence as we continue to build a stronger and more impactful SMBC Indonesia - 'Melayani Dengan Tekun, Tumbuh Bersama, dan Berkontribusi untuk Negeri' (Serving Diligently, Growing Together, and Contributing to the Nation). This reflects our official tagline 'Bersama Lebih Bermakna' (Together More Meaningful) and our commitment to 'Do Good Be Great'."
 
 ## Introduction of Key People
 

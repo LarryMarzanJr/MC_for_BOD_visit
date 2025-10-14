@@ -45,9 +45,26 @@ We are your Masters of Ceremony for today's gathering. I'm Larry, and"
 
 ## Get Audience Attention
 **Larry (Indonesian):**
-"Sebelum kita mulai acara, marilah kita mengingat komitmen kita terhadap keunggulan saat kita terus membangun SMBC Indonesia yang lebih kuat dan berdampak - "Bersama Lebih Bermakna".
-Untuk menggaungkan semangat kita pada hari ini saya punya jargon Marlen.. ketika saya mengatakan 'Bersama Lebih Bermakna' maka teman-teman harus mengangkat tangan dan mengatakan 'Do Good Be Great'."
-> Jargon bisa diulang 3x
+"Sebelum kita mulai acara, marilah kita mengingat komitmen kita terhadap keunggulan saat kita terus membangun SMBC Indonesia yang lebih kuat dan berdampak dengan semboyan - "Bersama Lebih Bermakna".
+Nah, Untuk menggaungkan semangat kita pada hari ini saya punya jargon Marlen.. 
+
+**Marlen (Indonesian):**
+Apa tuh jargonnya Larry?
+
+**Larry (Indonesian):**
+"ketika saya mengatakan 'Bersama Lebih Bermakna' maka teman-teman harus mengangkat tangan dan mengatakan 'Do Good Be Great'."
+
+**Marlen (Indonesian):**
+Luar biasa, untuk membakar semangat pada sore hari ini, kayaknya perlu kita coba
+
+**Larry (Indonesian):**
+"Kita angkat tangan, ketika nanti kita mengucapkan 'Bersama lebih bermakna', maka kita gaungkan bersama 'Do Good Be Great!'"
+"Ok, bisa dimulai Len.."
+
+**Marlen (Indonesian):**
+Ok, saya mulai ya, 'Bersama lebih bermakna'
+> Semua jawab: "Do Good Be Great!" (ulangi sampai 3x)
+"Luar Biasa.."
 
 **Larry (Indonesian):**
 "Hari ini saya ada pantun untuk menyemarakkan suasana. Marlen, kamu siap?"
@@ -68,10 +85,10 @@ Untuk menggaungkan semangat kita pada hari ini saya punya jargon Marlen.. ketika
 
 ## Pantun Pengantar Acara
 **Larry (Indonesian):**
-"Sekarang setelah kita memperkenalkan para tamu terhormat, ayo kita tambah semangat Town Hall kita dengan sesi pantun. Marlen, bagaimana kalau kita beri semangat dulu dengan pantun sebelum kita lanjutkan?"
+"Setelah kita memperkenalkan para tamu terhormat, ayo kita tambah semangat Town Hall kita dengan sesi pantun. Marlen, bagaimana kalau kita beri semangat dulu dengan pantun sebelum kita lanjutkan?"
 
 **Marlen (Indonesian):**
-"Bagus ide itu, Larry! Kami ingin mengajak semua rekan-rekan untuk semakin bersemangat dengan pantun-pantun yang menyemarakkan acara kita hari ini."
+"Ide bagus itu, Larry! Kami ingin mengajak semua rekan-rekan untuk semakin bersemangat dengan pantun-pantun yang menyemarakkan acara kita hari ini."
 
 **Larry (Indonesian):**
 "Siap! ini dia pantunnya ..."
@@ -82,7 +99,10 @@ Untuk menggaungkan semangat kita pada hari ini saya punya jargon Marlen.. ketika
 
 **Larry:** "Now, let's begin our formal program. As outlined in our agenda..."
 
-**Marlen:** "...kita akan memulai dengan sambutan pembukaan dan presentasi dari Regional Head, Bapak Yusri Asri. Bapak Asri akan memberikan wawasan berharga tentang operasi regional dan arah masa depan kita. Harap sambut Bapak Yusri Asri untuk sambutan pembukanya."
+**Marlen:** "...kita akan memulai dengan sambutan pembukaan dari Regional Head, Bapak Yusri Asri. Bapak Asri akan memberikan wawasan berharga untuk kita. Mari kita sambut
+
+**Larry & Marlen:** "
+"Bapak Yusri Asri!"
 
 ## Transition to CEO's Presentation (bergantian antara Larry and Marlen)
 
@@ -92,7 +112,10 @@ Untuk menggaungkan semangat kita pada hari ini saya punya jargon Marlen.. ketika
 
 **Larry:** "Mr. Munandar will share his vision for our bank's future and key strategic developments."
 
-**Marlen:** "Bapak Munandar akan berbagi visi untuk masa depan bank kita dan perkembangan strategis utama. Silakan sambut Bapak Henoch Munandar."
+**Marlen:** "Bapak Munandar akan berbagi visi untuk masa depan bank kita dan perkembangan strategis utama.
+
+**Larry & Marlen:** "
+"Kita sambut, Bapak Henoch Munandar."
 
 ## Facilitating Q&A Session (bergantian antara Larry and Marlen)
 
